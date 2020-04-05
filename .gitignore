@@ -1,2 +1,5 @@
-test*
-obsolete*
+/Stuff
+/WavSettings
+/Generators
+/Settings/test*
+/Settings/obsolete*

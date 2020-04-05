@@ -68,7 +68,7 @@ Files:
   - a
   - u
   - e
-  - nn
+  - a
   Description: _ああいあうえあ
 - Filename: _あかさたがざだ
   Phonemes:
@@ -668,18 +668,24 @@ Files:
 - Filename: _んやんばんら
   Phonemes:
   - nn
-  - ya
+  - y
+  - a
   - nn
-  - ba
+  - b
+  - a
   - nn
-  - ra
+  - r
+  - a
   Description: _んやんばんら
 - Filename: _んりゃんヴんわ
   Phonemes:
   - nn
-  - rya
+  - ry
+  - a
   - nn
-  - wu
+  - w
+  - a
   - nn
-  - wa
+  - w
+  - a
   Description: _んりゃんヴんわ
