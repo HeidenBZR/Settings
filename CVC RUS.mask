@@ -1,0 +1,318 @@
+﻿MaxDuplicates: 0
+WavGroups:
+- Name: C
+  WavFiles:
+  - babab
+  - b'ab'ab'
+  - vavav
+  - v'av'av'
+  - gagag
+  - g'ag'ag'
+  - dadad
+  - d'ad'ad'
+  - zazaz
+  - z'az'az'
+  - kakak
+  - k'ak'ak'
+  - lalal
+  - l'al'al'
+  - mamam
+  - m'am'am'
+  - nanan
+  - n'an'an'
+  - papap
+  - p'ap'ap'
+  - rarar
+  - r'ar'ar'
+  - sasas
+  - s'as'as'
+  - tatat
+  - t'at'at'
+  - fafaf
+  - f'af'af'
+  - hahah
+  - h'ah'ah'
+  - wawaw
+  - w'aw'aw'
+  - jajaj
+  - ~a~a~
+  - cacac
+  - 4'a4'a4'
+  AliasTypes:
+  - Name: RC
+    CanTakeFromAllPositions: true
+  - Name: CR
+    CanTakeFromAllPositions: true
+- Name: CV-VC
+  WavFiles:
+  - babab
+  - bebeb
+  - bobob
+  - bubub
+  - bybyb
+  - b'ab'ab'
+  - b'eb'eb'
+  - b'ob'ob'
+  - b'ub'ub'
+  - b'ib'ib'
+  - vavav
+  - vevev
+  - vovov
+  - vuvuv
+  - vyvyv
+  - v'av'av'
+  - v'ev'ev'
+  - v'ov'ov'
+  - v'uv'uv'
+  - v'iv'iv'
+  - gagag
+  - gegeg
+  - gogog
+  - gugug
+  - gygyg
+  - g'ag'ag'
+  - g'eg'eg'
+  - g'og'og'
+  - g'ug'ug'
+  - g'ig'ig'
+  - dadad
+  - deded
+  - dodod
+  - dudud
+  - dydyd
+  - d'ad'ad'
+  - d'ed'ed'
+  - d'od'od'
+  - d'ud'ud'
+  - d'id'id'
+  - zazaz
+  - zezez
+  - zozoz
+  - zuzuz
+  - zyzyz
+  - z'az'az'
+  - z'ez'ez'
+  - z'oz'oz'
+  - z'uz'uz'
+  - z'iz'iz'
+  - kakak
+  - kekek
+  - kokok
+  - kukuk
+  - kykyk
+  - k'ak'ak'
+  - k'ek'ek'
+  - k'ok'ok'
+  - k'uk'uk'
+  - k'ik'ik'
+  - lalal
+  - lelel
+  - lolol
+  - lulul
+  - lylyl
+  - l'al'al'
+  - l'el'el'
+  - l'ol'ol'
+  - l'ul'ul'
+  - l'il'il'
+  - mamam
+  - memem
+  - momom
+  - mumum
+  - mymym
+  - m'am'am'
+  - m'em'em'
+  - m'om'om'
+  - m'um'um'
+  - m'im'im'
+  - nanan
+  - nenen
+  - nonon
+  - nunun
+  - nynyn
+  - n'an'an'
+  - n'en'en'
+  - n'on'on'
+  - n'un'un'
+  - n'in'in'
+  - papap
+  - pepep
+  - popop
+  - pupup
+  - pypyp
+  - p'ap'ap'
+  - p'ep'ep'
+  - p'op'op'
+  - p'up'up'
+  - p'ip'ip'
+  - rarar
+  - rerer
+  - roror
+  - rurur
+  - ryryr
+  - r'ar'ar'
+  - r'er'er'
+  - r'or'or'
+  - r'ur'ur'
+  - r'ir'ir'
+  - sasas
+  - seses
+  - sosos
+  - susus
+  - sysys
+  - s'as'as'
+  - s'es'es'
+  - s'os'os'
+  - s'us'us'
+  - s'is'is'
+  - tatat
+  - tetet
+  - totot
+  - tutut
+  - tytyt
+  - t'at'at'
+  - t'et'et'
+  - t'ot'ot'
+  - t'ut'ut'
+  - t'it'it'
+  - fafaf
+  - fefef
+  - fofof
+  - fufuf
+  - fyfyf
+  - f'af'af'
+  - f'ef'ef'
+  - f'of'of'
+  - f'uf'uf'
+  - f'if'if'
+  - hahah
+  - heheh
+  - hohoh
+  - huhuh
+  - hyhyh
+  - h'ah'ah'
+  - h'eh'eh'
+  - h'oh'oh'
+  - h'uh'uh'
+  - h'ih'ih'
+  - wawaw
+  - wewew
+  - wowow
+  - wuwuw
+  - wywyw
+  - w'aw'aw'
+  - w'ew'ew'
+  - w'ow'ow'
+  - w'uw'uw'
+  - w'iw'iw'
+  - jajaj
+  - jejej
+  - jojoj
+  - jujuj
+  - jyjyj
+  - ~a~a~
+  - ~e~e~
+  - ~o~o~
+  - ~u~u~
+  - ~y~y~
+  - ~i~i~
+  - cacac
+  - cecec
+  - cococ
+  - cucuc
+  - cycyc
+  - 4'a4'a4'
+  - 4'e4'e4'
+  - 4'o4'o4'
+  - 4'u4'u4'
+  - 4'i4'i4'
+  AliasTypes:
+  - Name: RCV
+    CanTakeFromAllPositions: true
+  - Name: CV
+    Positions:
+    - 2
+  - Name: VC
+    Positions:
+    - 1
+  - Name: VCR
+    CanTakeFromAllPositions: true
+  SkipC:
+    - 0
+    - 2
+- Name: VC special
+  WavFiles:
+  - byb'ib
+  - b'ibyb'
+  - vyv'iv
+  - v'ivyv'
+  - gyg'ig
+  - g'igyg'
+  - dyd'id
+  - d'idyd'
+  - zyz'iz
+  - z'izyz'
+  - kyk'ik
+  - k'ikyk'
+  - lyl'il
+  - l'ilyl'
+  - mym'im
+  - m'imym'
+  - nyn'in
+  - n'inyn'
+  - pyp'ip
+  - p'ipyp'
+  - ryr'ir
+  - r'iryr'
+  - sys'is
+  - s'isys'
+  - tyt'it
+  - t'ityt'
+  - fyf'if
+  - f'ifyf'
+  - hyh'ih
+  - h'ihyh'
+  - wyw'iw
+  - w'iwyw'
+  SkipC:
+    - 0
+    - 2
+  SkipR:
+    - 0
+  AliasTypes:
+  - Name: VC
+    Positions:
+    - 1
+  - Name: VCR
+    CanTakeFromAllPositions: true
+- Name: V
+  WavFiles:
+  - a
+  - e
+  - o
+  - u
+  - y
+  - i
+  AliasTypes:
+  - Name: RV
+    CanTakeFromAllPositions: true
+  - Name: V
+    Positions:
+    - 2
+  - Name: VR
+    CanTakeFromAllPositions: true
+  - Name: VC
+    CanTakeFromAllPositions: true
+  - Name: CV
+    CanTakeFromAllPositions: true
+- Name: C voweled
+  WavFiles:
+  - M
+  - N
+  AliasTypes:
+  - Name: RV
+    CanTakeFromAllPositions: true
+  - Name: V
+    CanTakeFromAllPositions: true
+  - Name: VR
+    CanTakeFromAllPositions: true

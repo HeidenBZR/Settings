@@ -1,0 +1,2425 @@
+﻿Phonemes:
+  Vowels:
+  - a
+  - e
+  - i
+  - o
+  - u
+  - '@'
+  - 7
+  - 1
+  - 0
+  - Q
+  - X
+  - V
+  Consonants:
+  - '`'
+  - b
+  - ch
+  - d
+  - D'
+  - f
+  - g
+  - h
+  - j
+  - k
+  - l
+  - lh
+  - m
+  - n
+  - nh
+  - p
+  - r
+  - rh
+  - s
+  - sh
+  - t
+  - v
+  - w
+  - y
+  - z
+Files:
+- Filename: a
+  Phonemes:
+  - a
+  - '`'
+  - a
+  Description: a
+- Filename: e
+  Phonemes:
+  - e
+  - '`'
+  - e
+  Description: e
+- Filename: i
+  Phonemes:
+  - i
+  - '`'
+  - i
+  Description: i
+- Filename: o
+  Phonemes:
+  - o
+  - '`'
+  - o
+  Description: o
+- Filename: u
+  Phonemes:
+  - u
+  - '`'
+  - u
+  Description: u
+- Filename: '@'
+  Phonemes:
+  - '@'
+  - '`'
+  - '@'
+  Description: '@'
+- Filename: 7
+  Phonemes:
+  - 7
+  - '`'
+  - 7
+  Description: 7
+- Filename: 1
+  Phonemes:
+  - 1
+  - '`'
+  - 1
+  Description: 1
+- Filename: 0
+  Phonemes:
+  - 0
+  - '`'
+  - 0
+  Description: 0
+- Filename: Q
+  Phonemes:
+  - Q
+  - '`'
+  - Q
+  Description: Q
+- Filename: X
+  Phonemes:
+  - X
+  - '`'
+  - X
+  Description: X
+- Filename: V
+  Phonemes:
+  - V
+  - '`'
+  - V
+  Description: V
+- Filename: babab
+  Phonemes:
+  - b
+  - a
+  - b
+  - a
+  - b
+  Description: babab
+- Filename: bebeb
+  Phonemes:
+  - b
+  - e
+  - b
+  - e
+  - b
+  Description: bebeb
+- Filename: bibib
+  Phonemes:
+  - b
+  - i
+  - b
+  - i
+  - b
+  Description: bibib
+- Filename: bobob
+  Phonemes:
+  - b
+  - o
+  - b
+  - o
+  - b
+  Description: bobob
+- Filename: bubub
+  Phonemes:
+  - b
+  - u
+  - b
+  - u
+  - b
+  Description: bubub
+- Filename: b@b@b
+  Phonemes:
+  - b
+  - '@'
+  - b
+  - '@'
+  - b
+  Description: b@b@b
+- Filename: b7b7b
+  Phonemes:
+  - b
+  - 7
+  - b
+  - 7
+  - b
+  Description: b7b7b
+- Filename: b1b1b
+  Phonemes:
+  - b
+  - 1
+  - b
+  - 1
+  - b
+  Description: b1b1b
+- Filename: b0b0b
+  Phonemes:
+  - b
+  - 0
+  - b
+  - 0
+  - b
+  Description: b0b0b
+- Filename: bQbQb
+  Phonemes:
+  - b
+  - Q
+  - b
+  - Q
+  - b
+  Description: bQbQb
+- Filename: bXbXb
+  Phonemes:
+  - b
+  - X
+  - b
+  - X
+  - b
+  Description: bXbXb
+- Filename: bVbVb
+  Phonemes:
+  - b
+  - V
+  - b
+  - V
+  - b
+  Description: bVbVb
+- Filename: chachach
+  Phonemes:
+  - ch
+  - a
+  - ch
+  - a
+  - ch
+  Description: chachach
+- Filename: chechech
+  Phonemes:
+  - ch
+  - e
+  - ch
+  - e
+  - ch
+  Description: chechech
+- Filename: chichich
+  Phonemes:
+  - ch
+  - i
+  - ch
+  - i
+  - ch
+  Description: chichich
+- Filename: chochoch
+  Phonemes:
+  - ch
+  - o
+  - ch
+  - o
+  - ch
+  Description: chochoch
+- Filename: chuchuch
+  Phonemes:
+  - ch
+  - u
+  - ch
+  - u
+  - ch
+  Description: chuchuch
+- Filename: ch@ch@ch
+  Phonemes:
+  - ch
+  - '@'
+  - ch
+  - '@'
+  - ch
+  Description: ch@ch@ch
+- Filename: ch7ch7ch
+  Phonemes:
+  - ch
+  - 7
+  - ch
+  - 7
+  - ch
+  Description: ch7ch7ch
+- Filename: ch1ch1ch
+  Phonemes:
+  - ch
+  - 1
+  - ch
+  - 1
+  - ch
+  Description: ch1ch1ch
+- Filename: ch0ch0ch
+  Phonemes:
+  - ch
+  - 0
+  - ch
+  - 0
+  - ch
+  Description: ch0ch0ch
+- Filename: chQchQch
+  Phonemes:
+  - ch
+  - Q
+  - ch
+  - Q
+  - ch
+  Description: chQchQch
+- Filename: chXchXch
+  Phonemes:
+  - ch
+  - X
+  - ch
+  - X
+  - ch
+  Description: chXchXch
+- Filename: chVchVch
+  Phonemes:
+  - ch
+  - V
+  - ch
+  - V
+  - ch
+  Description: chVchVch
+- Filename: dadad
+  Phonemes:
+  - d
+  - a
+  - d
+  - a
+  - d
+  Description: dadad
+- Filename: deded
+  Phonemes:
+  - d
+  - e
+  - d
+  - e
+  - d
+  Description: deded
+- Filename: didid
+  Phonemes:
+  - d
+  - i
+  - d
+  - i
+  - d
+  Description: didid
+- Filename: dodod
+  Phonemes:
+  - d
+  - o
+  - d
+  - o
+  - d
+  Description: dodod
+- Filename: dudud
+  Phonemes:
+  - d
+  - u
+  - d
+  - u
+  - d
+  Description: dudud
+- Filename: d@d@d
+  Phonemes:
+  - d
+  - '@'
+  - d
+  - '@'
+  - d
+  Description: d@d@d
+- Filename: d7d7d
+  Phonemes:
+  - d
+  - 7
+  - d
+  - 7
+  - d
+  Description: d7d7d
+- Filename: d1d1d
+  Phonemes:
+  - d
+  - 1
+  - d
+  - 1
+  - d
+  Description: d1d1d
+- Filename: d0d0d
+  Phonemes:
+  - d
+  - 0
+  - d
+  - 0
+  - d
+  Description: d0d0d
+- Filename: dQdQd
+  Phonemes:
+  - d
+  - Q
+  - d
+  - Q
+  - d
+  Description: dQdQd
+- Filename: dXdXd
+  Phonemes:
+  - d
+  - X
+  - d
+  - X
+  - d
+  Description: dXdXd
+- Filename: dVdVd
+  Phonemes:
+  - d
+  - V
+  - d
+  - V
+  - d
+  Description: dVdVd
+- Filename: D'aD'aD'
+  Phonemes:
+  - D'
+  - a
+  - D'
+  - a
+  - D'
+  Description: D'aD'aD'
+- Filename: D'eD'eD'
+  Phonemes:
+  - D'
+  - e
+  - D'
+  - e
+  - D'
+  Description: D'eD'eD'
+- Filename: D'iD'iD'
+  Phonemes:
+  - D'
+  - i
+  - D'
+  - i
+  - D'
+  Description: D'iD'iD'
+- Filename: D'oD'oD'
+  Phonemes:
+  - D'
+  - o
+  - D'
+  - o
+  - D'
+  Description: D'oD'oD'
+- Filename: D'uD'uD'
+  Phonemes:
+  - D'
+  - u
+  - D'
+  - u
+  - D'
+  Description: D'uD'uD'
+- Filename: D'@D'@D'
+  Phonemes:
+  - D'
+  - '@'
+  - D'
+  - '@'
+  - D'
+  Description: D'@D'@D'
+- Filename: D'7D'7D'
+  Phonemes:
+  - D'
+  - 7
+  - D'
+  - 7
+  - D'
+  Description: D'7D'7D'
+- Filename: D'1D'1D'
+  Phonemes:
+  - D'
+  - 1
+  - D'
+  - 1
+  - D'
+  Description: D'1D'1D'
+- Filename: D'0D'0D'
+  Phonemes:
+  - D'
+  - 0
+  - D'
+  - 0
+  - D'
+  Description: D'0D'0D'
+- Filename: D'QD'QD'
+  Phonemes:
+  - D'
+  - Q
+  - D'
+  - Q
+  - D'
+  Description: D'QD'QD'
+- Filename: D'XD'XD'
+  Phonemes:
+  - D'
+  - X
+  - D'
+  - X
+  - D'
+  Description: D'XD'XD'
+- Filename: D'VD'VD'
+  Phonemes:
+  - D'
+  - V
+  - D'
+  - V
+  - D'
+  Description: D'VD'VD'
+- Filename: fafaf
+  Phonemes:
+  - f
+  - a
+  - f
+  - a
+  - f
+  Description: fafaf
+- Filename: fefef
+  Phonemes:
+  - f
+  - e
+  - f
+  - e
+  - f
+  Description: fefef
+- Filename: fifif
+  Phonemes:
+  - f
+  - i
+  - f
+  - i
+  - f
+  Description: fifif
+- Filename: fofof
+  Phonemes:
+  - f
+  - o
+  - f
+  - o
+  - f
+  Description: fofof
+- Filename: fufuf
+  Phonemes:
+  - f
+  - u
+  - f
+  - u
+  - f
+  Description: fufuf
+- Filename: f@f@f
+  Phonemes:
+  - f
+  - '@'
+  - f
+  - '@'
+  - f
+  Description: f@f@f
+- Filename: f7f7f
+  Phonemes:
+  - f
+  - 7
+  - f
+  - 7
+  - f
+  Description: f7f7f
+- Filename: f1f1f
+  Phonemes:
+  - f
+  - 1
+  - f
+  - 1
+  - f
+  Description: f1f1f
+- Filename: f0f0f
+  Phonemes:
+  - f
+  - 0
+  - f
+  - 0
+  - f
+  Description: f0f0f
+- Filename: fQfQf
+  Phonemes:
+  - f
+  - Q
+  - f
+  - Q
+  - f
+  Description: fQfQf
+- Filename: fXfXf
+  Phonemes:
+  - f
+  - X
+  - f
+  - X
+  - f
+  Description: fXfXf
+- Filename: fVfVf
+  Phonemes:
+  - f
+  - V
+  - f
+  - V
+  - f
+  Description: fVfVf
+- Filename: gagag
+  Phonemes:
+  - g
+  - a
+  - g
+  - a
+  - g
+  Description: gagag
+- Filename: gegeg
+  Phonemes:
+  - g
+  - e
+  - g
+  - e
+  - g
+  Description: gegeg
+- Filename: gigig
+  Phonemes:
+  - g
+  - i
+  - g
+  - i
+  - g
+  Description: gigig
+- Filename: gogog
+  Phonemes:
+  - g
+  - o
+  - g
+  - o
+  - g
+  Description: gogog
+- Filename: gugug
+  Phonemes:
+  - g
+  - u
+  - g
+  - u
+  - g
+  Description: gugug
+- Filename: g@g@g
+  Phonemes:
+  - g
+  - '@'
+  - g
+  - '@'
+  - g
+  Description: g@g@g
+- Filename: g7g7g
+  Phonemes:
+  - g
+  - 7
+  - g
+  - 7
+  - g
+  Description: g7g7g
+- Filename: g1g1g
+  Phonemes:
+  - g
+  - 1
+  - g
+  - 1
+  - g
+  Description: g1g1g
+- Filename: g0g0g
+  Phonemes:
+  - g
+  - 0
+  - g
+  - 0
+  - g
+  Description: g0g0g
+- Filename: gQgQg
+  Phonemes:
+  - g
+  - Q
+  - g
+  - Q
+  - g
+  Description: gQgQg
+- Filename: gXgXg
+  Phonemes:
+  - g
+  - X
+  - g
+  - X
+  - g
+  Description: gXgXg
+- Filename: gVgVg
+  Phonemes:
+  - g
+  - V
+  - g
+  - V
+  - g
+  Description: gVgVg
+- Filename: hahah
+  Phonemes:
+  - h
+  - a
+  - h
+  - a
+  - h
+  Description: hahah
+- Filename: heheh
+  Phonemes:
+  - h
+  - e
+  - h
+  - e
+  - h
+  Description: heheh
+- Filename: hihih
+  Phonemes:
+  - h
+  - i
+  - h
+  - i
+  - h
+  Description: hihih
+- Filename: hohoh
+  Phonemes:
+  - h
+  - o
+  - h
+  - o
+  - h
+  Description: hohoh
+- Filename: huhuh
+  Phonemes:
+  - h
+  - u
+  - h
+  - u
+  - h
+  Description: huhuh
+- Filename: h@h@h
+  Phonemes:
+  - h
+  - '@'
+  - h
+  - '@'
+  - h
+  Description: h@h@h
+- Filename: h7h7h
+  Phonemes:
+  - h
+  - 7
+  - h
+  - 7
+  - h
+  Description: h7h7h
+- Filename: h1h1h
+  Phonemes:
+  - h
+  - 1
+  - h
+  - 1
+  - h
+  Description: h1h1h
+- Filename: h0h0h
+  Phonemes:
+  - h
+  - 0
+  - h
+  - 0
+  - h
+  Description: h0h0h
+- Filename: hQhQh
+  Phonemes:
+  - h
+  - Q
+  - h
+  - Q
+  - h
+  Description: hQhQh
+- Filename: hXhXh
+  Phonemes:
+  - h
+  - X
+  - h
+  - X
+  - h
+  Description: hXhXh
+- Filename: hVhVh
+  Phonemes:
+  - h
+  - V
+  - h
+  - V
+  - h
+  Description: hVhVh
+- Filename: jajaj
+  Phonemes:
+  - j
+  - a
+  - j
+  - a
+  - j
+  Description: jajaj
+- Filename: jejej
+  Phonemes:
+  - j
+  - e
+  - j
+  - e
+  - j
+  Description: jejej
+- Filename: jijij
+  Phonemes:
+  - j
+  - i
+  - j
+  - i
+  - j
+  Description: jijij
+- Filename: jojoj
+  Phonemes:
+  - j
+  - o
+  - j
+  - o
+  - j
+  Description: jojoj
+- Filename: jujuj
+  Phonemes:
+  - j
+  - u
+  - j
+  - u
+  - j
+  Description: jujuj
+- Filename: j@j@j
+  Phonemes:
+  - j
+  - '@'
+  - j
+  - '@'
+  - j
+  Description: j@j@j
+- Filename: j7j7j
+  Phonemes:
+  - j
+  - 7
+  - j
+  - 7
+  - j
+  Description: j7j7j
+- Filename: j1j1j
+  Phonemes:
+  - j
+  - 1
+  - j
+  - 1
+  - j
+  Description: j1j1j
+- Filename: j0j0j
+  Phonemes:
+  - j
+  - 0
+  - j
+  - 0
+  - j
+  Description: j0j0j
+- Filename: jQjQj
+  Phonemes:
+  - j
+  - Q
+  - j
+  - Q
+  - j
+  Description: jQjQj
+- Filename: jXjXj
+  Phonemes:
+  - j
+  - X
+  - j
+  - X
+  - j
+  Description: jXjXj
+- Filename: jVjVj
+  Phonemes:
+  - j
+  - V
+  - j
+  - V
+  - j
+  Description: jVjVj
+- Filename: kakak
+  Phonemes:
+  - k
+  - a
+  - k
+  - a
+  - k
+  Description: kakak
+- Filename: kekek
+  Phonemes:
+  - k
+  - e
+  - k
+  - e
+  - k
+  Description: kekek
+- Filename: kikik
+  Phonemes:
+  - k
+  - i
+  - k
+  - i
+  - k
+  Description: kikik
+- Filename: kokok
+  Phonemes:
+  - k
+  - o
+  - k
+  - o
+  - k
+  Description: kokok
+- Filename: kukuk
+  Phonemes:
+  - k
+  - u
+  - k
+  - u
+  - k
+  Description: kukuk
+- Filename: k@k@k
+  Phonemes:
+  - k
+  - '@'
+  - k
+  - '@'
+  - k
+  Description: k@k@k
+- Filename: k7k7k
+  Phonemes:
+  - k
+  - 7
+  - k
+  - 7
+  - k
+  Description: k7k7k
+- Filename: k1k1k
+  Phonemes:
+  - k
+  - 1
+  - k
+  - 1
+  - k
+  Description: k1k1k
+- Filename: k0k0k
+  Phonemes:
+  - k
+  - 0
+  - k
+  - 0
+  - k
+  Description: k0k0k
+- Filename: kQkQk
+  Phonemes:
+  - k
+  - Q
+  - k
+  - Q
+  - k
+  Description: kQkQk
+- Filename: kXkXk
+  Phonemes:
+  - k
+  - X
+  - k
+  - X
+  - k
+  Description: kXkXk
+- Filename: kVkVk
+  Phonemes:
+  - k
+  - V
+  - k
+  - V
+  - k
+  Description: kVkVk
+- Filename: lalal
+  Phonemes:
+  - l
+  - a
+  - l
+  - a
+  - l
+  Description: lalal
+- Filename: lelel
+  Phonemes:
+  - l
+  - e
+  - l
+  - e
+  - l
+  Description: lelel
+- Filename: lilil
+  Phonemes:
+  - l
+  - i
+  - l
+  - i
+  - l
+  Description: lilil
+- Filename: lolol
+  Phonemes:
+  - l
+  - o
+  - l
+  - o
+  - l
+  Description: lolol
+- Filename: lulul
+  Phonemes:
+  - l
+  - u
+  - l
+  - u
+  - l
+  Description: lulul
+- Filename: l@l@l
+  Phonemes:
+  - l
+  - '@'
+  - l
+  - '@'
+  - l
+  Description: l@l@l
+- Filename: l7l7l
+  Phonemes:
+  - l
+  - 7
+  - l
+  - 7
+  - l
+  Description: l7l7l
+- Filename: l1l1l
+  Phonemes:
+  - l
+  - 1
+  - l
+  - 1
+  - l
+  Description: l1l1l
+- Filename: l0l0l
+  Phonemes:
+  - l
+  - 0
+  - l
+  - 0
+  - l
+  Description: l0l0l
+- Filename: lQlQl
+  Phonemes:
+  - l
+  - Q
+  - l
+  - Q
+  - l
+  Description: lQlQl
+- Filename: lXlXl
+  Phonemes:
+  - l
+  - X
+  - l
+  - X
+  - l
+  Description: lXlXl
+- Filename: lVlVl
+  Phonemes:
+  - l
+  - V
+  - l
+  - V
+  - l
+  Description: lVlVl
+- Filename: lhalhalh
+  Phonemes:
+  - lh
+  - a
+  - lh
+  - a
+  - lh
+  Description: lhalhalh
+- Filename: lhelhelh
+  Phonemes:
+  - lh
+  - e
+  - lh
+  - e
+  - lh
+  Description: lhelhelh
+- Filename: lhilhilh
+  Phonemes:
+  - lh
+  - i
+  - lh
+  - i
+  - lh
+  Description: lhilhilh
+- Filename: lholholh
+  Phonemes:
+  - lh
+  - o
+  - lh
+  - o
+  - lh
+  Description: lholholh
+- Filename: lhulhulh
+  Phonemes:
+  - lh
+  - u
+  - lh
+  - u
+  - lh
+  Description: lhulhulh
+- Filename: lh@lh@lh
+  Phonemes:
+  - lh
+  - '@'
+  - lh
+  - '@'
+  - lh
+  Description: lh@lh@lh
+- Filename: lh7lh7lh
+  Phonemes:
+  - lh
+  - 7
+  - lh
+  - 7
+  - lh
+  Description: lh7lh7lh
+- Filename: lh1lh1lh
+  Phonemes:
+  - lh
+  - 1
+  - lh
+  - 1
+  - lh
+  Description: lh1lh1lh
+- Filename: lh0lh0lh
+  Phonemes:
+  - lh
+  - 0
+  - lh
+  - 0
+  - lh
+  Description: lh0lh0lh
+- Filename: lhQlhQlh
+  Phonemes:
+  - lh
+  - Q
+  - lh
+  - Q
+  - lh
+  Description: lhQlhQlh
+- Filename: lhXlhXlh
+  Phonemes:
+  - lh
+  - X
+  - lh
+  - X
+  - lh
+  Description: lhXlhXlh
+- Filename: lhVlhVlh
+  Phonemes:
+  - lh
+  - V
+  - lh
+  - V
+  - lh
+  Description: lhVlhVlh
+- Filename: mamam
+  Phonemes:
+  - m
+  - a
+  - m
+  - a
+  - m
+  Description: mamam
+- Filename: memem
+  Phonemes:
+  - m
+  - e
+  - m
+  - e
+  - m
+  Description: memem
+- Filename: mimim
+  Phonemes:
+  - m
+  - i
+  - m
+  - i
+  - m
+  Description: mimim
+- Filename: momom
+  Phonemes:
+  - m
+  - o
+  - m
+  - o
+  - m
+  Description: momom
+- Filename: mumum
+  Phonemes:
+  - m
+  - u
+  - m
+  - u
+  - m
+  Description: mumum
+- Filename: m@m@m
+  Phonemes:
+  - m
+  - '@'
+  - m
+  - '@'
+  - m
+  Description: m@m@m
+- Filename: m7m7m
+  Phonemes:
+  - m
+  - 7
+  - m
+  - 7
+  - m
+  Description: m7m7m
+- Filename: m1m1m
+  Phonemes:
+  - m
+  - 1
+  - m
+  - 1
+  - m
+  Description: m1m1m
+- Filename: m0m0m
+  Phonemes:
+  - m
+  - 0
+  - m
+  - 0
+  - m
+  Description: m0m0m
+- Filename: mQmQm
+  Phonemes:
+  - m
+  - Q
+  - m
+  - Q
+  - m
+  Description: mQmQm
+- Filename: mXmXm
+  Phonemes:
+  - m
+  - X
+  - m
+  - X
+  - m
+  Description: mXmXm
+- Filename: mVmVm
+  Phonemes:
+  - m
+  - V
+  - m
+  - V
+  - m
+  Description: mVmVm
+- Filename: nanan
+  Phonemes:
+  - n
+  - a
+  - n
+  - a
+  - n
+  Description: nanan
+- Filename: nenen
+  Phonemes:
+  - n
+  - e
+  - n
+  - e
+  - n
+  Description: nenen
+- Filename: ninin
+  Phonemes:
+  - n
+  - i
+  - n
+  - i
+  - n
+  Description: ninin
+- Filename: nunun
+  Phonemes:
+  - n
+  - u
+  - n
+  - u
+  - n
+  Description: nunun
+- Filename: nanan
+  Phonemes:
+  - n
+  - a
+  - n
+  - a
+  - n
+  Description: nanan
+- Filename: n@n@n
+  Phonemes:
+  - n
+  - '@'
+  - n
+  - '@'
+  - n
+  Description: n@n@n
+- Filename: n7n7n
+  Phonemes:
+  - n
+  - 7
+  - n
+  - 7
+  - n
+  Description: n7n7n
+- Filename: n1n1n
+  Phonemes:
+  - n
+  - 1
+  - n
+  - 1
+  - n
+  Description: n1n1n
+- Filename: n0n0n
+  Phonemes:
+  - n
+  - 0
+  - n
+  - 0
+  - n
+  Description: n0n0n
+- Filename: nonon
+  Phonemes:
+  - n
+  - o
+  - n
+  - o
+  - n
+  Description: nonon
+- Filename: nQnQn
+  Phonemes:
+  - n
+  - Q
+  - n
+  - Q
+  - n
+  Description: nQnQn
+- Filename: nXnXn
+  Phonemes:
+  - n
+  - X
+  - n
+  - X
+  - n
+  Description: nXnXn
+- Filename: nVnVn
+  Phonemes:
+  - n
+  - V
+  - n
+  - V
+  - n
+  Description: nVnVn
+- Filename: nhanhanh
+  Phonemes:
+  - nh
+  - a
+  - nh
+  - a
+  - nh
+  Description: nhanhanh
+- Filename: nhenhenh
+  Phonemes:
+  - nh
+  - e
+  - nh
+  - e
+  - nh
+  Description: nhenhenh
+- Filename: nhinhinh
+  Phonemes:
+  - nh
+  - i
+  - nh
+  - i
+  - nh
+  Description: nhinhinh
+- Filename: nhonhonh
+  Phonemes:
+  - nh
+  - o
+  - nh
+  - o
+  - nh
+  Description: nhonhonh
+- Filename: nhunhunh
+  Phonemes:
+  - nh
+  - u
+  - nh
+  - u
+  - nh
+  Description: nhunhunh
+- Filename: nh@nh@nh
+  Phonemes:
+  - nh
+  - '@'
+  - nh
+  - '@'
+  - nh
+  Description: nh@nh@nh
+- Filename: nh7nh7nh
+  Phonemes:
+  - nh
+  - 7
+  - nh
+  - 7
+  - nh
+  Description: nh7nh7nh
+- Filename: nh1nh1nh
+  Phonemes:
+  - nh
+  - 1
+  - nh
+  - 1
+  - nh
+  Description: nh1nh1nh
+- Filename: nh0nh0nh
+  Phonemes:
+  - nh
+  - 0
+  - nh
+  - 0
+  - nh
+  Description: nh0nh0nh
+- Filename: nhQnhQnh
+  Phonemes:
+  - nh
+  - Q
+  - nh
+  - Q
+  - nh
+  Description: nhQnhQnh
+- Filename: nhXnhXnh
+  Phonemes:
+  - nh
+  - X
+  - nh
+  - X
+  - nh
+  Description: nhXnhXnh
+- Filename: nhVnhVnh
+  Phonemes:
+  - nh
+  - V
+  - nh
+  - V
+  - nh
+  Description: nhVnhVnhV
+- Filename: papap
+  Phonemes:
+  - p
+  - a
+  - p
+  - a
+  - p
+  Description: papap
+- Filename: pepep
+  Phonemes:
+  - p
+  - e
+  - p
+  - e
+  - p
+  Description: pepep
+- Filename: pipip
+  Phonemes:
+  - p
+  - i
+  - p
+  - i
+  - p
+  Description: pipip
+- Filename: popop
+  Phonemes:
+  - p
+  - o
+  - p
+  - o
+  - p
+  Description: popop
+- Filename: pupup
+  Phonemes:
+  - p
+  - u
+  - p
+  - u
+  - p
+  Description: pupup
+- Filename: p@p@p
+  Phonemes:
+  - p
+  - '@'
+  - p
+  - '@'
+  - p
+  Description: p@p@p
+- Filename: p7p7p
+  Phonemes:
+  - p
+  - 7
+  - p
+  - 7
+  - p
+  Description: p7p7p
+- Filename: p1p1p
+  Phonemes:
+  - p
+  - 1
+  - p
+  - 1
+  - p
+  Description: p1p1p
+- Filename: p0p0p
+  Phonemes:
+  - p
+  - 0
+  - p
+  - 0
+  - p
+  Description: p0p0p
+- Filename: pQpQp
+  Phonemes:
+  - p
+  - Q
+  - p
+  - Q
+  - p
+  Description: pQpQp
+- Filename: pXpXp
+  Phonemes:
+  - p
+  - X
+  - p
+  - X
+  - p
+  Description: pXpXp
+- Filename: pVpVp
+  Phonemes:
+  - p
+  - V
+  - p
+  - V
+  - p
+  Description: pVpVp
+- Filename: rarar
+  Phonemes:
+  - r
+  - a
+  - r
+  - a
+  - r
+  Description: rarar
+- Filename: rerer
+  Phonemes:
+  - r
+  - e
+  - r
+  - e
+  - r
+  Description: rerer
+- Filename: ririr
+  Phonemes:
+  - r
+  - i
+  - r
+  - i
+  - r
+  Description: ririr
+- Filename: roror
+  Phonemes:
+  - r
+  - o
+  - r
+  - o
+  - r
+  Description: roror
+- Filename: rurur
+  Phonemes:
+  - r
+  - u
+  - r
+  - u
+  - r
+  Description: rurur
+- Filename: r@r@r
+  Phonemes:
+  - r
+  - '@'
+  - r
+  - '@'
+  - r
+  Description: r@r@r
+- Filename: r7r7r
+  Phonemes:
+  - r
+  - 7
+  - r
+  - 7
+  - r
+  Description: r7r7r
+- Filename: r1r1r
+  Phonemes:
+  - r
+  - 1
+  - r
+  - 1
+  - r
+  Description: r1r1r
+- Filename: r0r0r
+  Phonemes:
+  - r
+  - 0
+  - r
+  - 0
+  - r
+  Description: r0r0r
+- Filename: rQrQr
+  Phonemes:
+  - r
+  - Q
+  - r
+  - Q
+  - r
+  Description: rQrQr
+- Filename: rXrXr
+  Phonemes:
+  - r
+  - X
+  - r
+  - X
+  - r
+  Description: rXrXr
+- Filename: rVrVr
+  Phonemes:
+  - r
+  - V
+  - r
+  - V
+  - r
+  Description: rVrVr
+- Filename: rharharh
+  Phonemes:
+  - rh
+  - a
+  - rh
+  - a
+  - rh
+  Description: rharharh
+- Filename: rherherh
+  Phonemes:
+  - rh
+  - e
+  - rh
+  - e
+  - rh
+  Description: rherherh
+- Filename: rhirhirh
+  Phonemes:
+  - rh
+  - i
+  - rh
+  - i
+  - rh
+  Description: rhirhirh
+- Filename: rhorhorh
+  Phonemes:
+  - rh
+  - o
+  - rh
+  - o
+  - rh
+  Description: rhorhorh
+- Filename: rhurhurh
+  Phonemes:
+  - rh
+  - u
+  - rh
+  - u
+  - rh
+  Description: rhurhurh
+- Filename: rh@rh@rh
+  Phonemes:
+  - rh
+  - '@'
+  - rh
+  - '@'
+  - rh
+  Description: rh@rh@rh
+- Filename: rh7rh7rh
+  Phonemes:
+  - rh
+  - 7
+  - rh
+  - 7
+  - rh
+  Description: rh7rh7rh
+- Filename: rh1rh1rh
+  Phonemes:
+  - rh
+  - 1
+  - rh
+  - 1
+  - rh
+  Description: rh1rh1rh
+- Filename: rh0rh0rh
+  Phonemes:
+  - rh
+  - 0
+  - rh
+  - 0
+  - rh
+  Description: rh0rh0rh
+- Filename: rhQrhQrh
+  Phonemes:
+  - rh
+  - Q
+  - rh
+  - Q
+  - rh
+  Description: rhQrhQrh
+- Filename: rhXrhXrh
+  Phonemes:
+  - rh
+  - X
+  - rh
+  - X
+  - rh
+  Description: rhXrhXrh
+- Filename: rhVrhVrh
+  Phonemes:
+  - rh
+  - V
+  - rh
+  - V
+  - rh
+  Description: rhVrhVrh
+- Filename: sasas
+  Phonemes:
+  - s
+  - a
+  - s
+  - a
+  - s
+  Description: sasas
+- Filename: seses
+  Phonemes:
+  - s
+  - e
+  - s
+  - e
+  - s
+  Description: seses
+- Filename: sisis
+  Phonemes:
+  - s
+  - i
+  - s
+  - i
+  - s
+  Description: sisis
+- Filename: sosos
+  Phonemes:
+  - s
+  - o
+  - s
+  - o
+  - s
+  Description: sosos
+- Filename: susus
+  Phonemes:
+  - s
+  - u
+  - s
+  - u
+  - s
+  Description: susus
+- Filename: s@s@s
+  Phonemes:
+  - s
+  - '@'
+  - s
+  - '@'
+  - s
+  Description: s@s@s
+- Filename: s7s7s
+  Phonemes:
+  - s
+  - 7
+  - s
+  - 7
+  - s
+  Description: s7s7s
+- Filename: s1s1s
+  Phonemes:
+  - s
+  - 1
+  - s
+  - 1
+  - s
+  Description: s1s1s
+- Filename: s0s0s
+  Phonemes:
+  - s
+  - 0
+  - s
+  - 0
+  - s
+  Description: s0s0s
+- Filename: sQsQs
+  Phonemes:
+  - s
+  - Q
+  - s
+  - Q
+  - s
+  Description: sQsQs
+- Filename: sXsXs
+  Phonemes:
+  - s
+  - X
+  - s
+  - X
+  - s
+  Description: sXsXs
+- Filename: sVsVs
+  Phonemes:
+  - s
+  - V
+  - s
+  - V
+  - s
+  Description: sVsVs
+- Filename: shashash
+  Phonemes:
+  - sh
+  - a
+  - sh
+  - a
+  - sh
+  Description: shashash
+- Filename: sheshesh
+  Phonemes:
+  - sh
+  - e
+  - sh
+  - e
+  - sh
+  Description: sheshesh
+- Filename: shishish
+  Phonemes:
+  - sh
+  - i
+  - sh
+  - i
+  - sh
+  Description: shishish
+- Filename: shoshosh
+  Phonemes:
+  - sh
+  - o
+  - sh
+  - o
+  - sh
+  Description: shoshosh
+- Filename: shushush
+  Phonemes:
+  - sh
+  - u
+  - sh
+  - u
+  - sh
+  Description: shushush
+- Filename: sh@sh@sh
+  Phonemes:
+  - sh
+  - '@'
+  - sh
+  - '@'
+  - sh
+  Description: sh@sh@sh
+- Filename: sh7sh7sh
+  Phonemes:
+  - sh
+  - 7
+  - sh
+  - 7
+  - sh
+  Description: sh7sh7sh
+- Filename: sh1sh1sh
+  Phonemes:
+  - sh
+  - 1
+  - sh
+  - 1
+  - sh
+  Description: sh1sh1sh
+- Filename: sh0sh0sh
+  Phonemes:
+  - sh
+  - 0
+  - sh
+  - 0
+  - sh
+  Description: sh0sh0sh
+- Filename: shQshQsh
+  Phonemes:
+  - sh
+  - Q
+  - sh
+  - Q
+  - sh
+  Description: shQshQsh
+- Filename: shXshXsh
+  Phonemes:
+  - sh
+  - X
+  - sh
+  - X
+  - sh
+  Description: shXshXsh
+- Filename: shVshVsh
+  Phonemes:
+  - sh
+  - V
+  - sh
+  - V
+  - sh
+  Description: shVshVsh
+- Filename: tatat
+  Phonemes:
+  - t
+  - a
+  - t
+  - a
+  - t
+  Description: tatat
+- Filename: tetet
+  Phonemes:
+  - t
+  - e
+  - t
+  - e
+  - t
+  Description: tetet
+- Filename: titit
+  Phonemes:
+  - t
+  - i
+  - t
+  - i
+  - t
+  Description: titit
+- Filename: totot
+  Phonemes:
+  - t
+  - o
+  - t
+  - o
+  - t
+  Description: totot
+- Filename: tutut
+  Phonemes:
+  - t
+  - u
+  - t
+  - u
+  - t
+  Description: tutut
+- Filename: t@t@t
+  Phonemes:
+  - t
+  - '@'
+  - t
+  - '@'
+  - t
+  Description: t@t@t
+- Filename: t7t7t
+  Phonemes:
+  - t
+  - 7
+  - t
+  - 7
+  - t
+  Description: t7t7t
+- Filename: t1t1t
+  Phonemes:
+  - t
+  - 1
+  - t
+  - 1
+  - t
+  Description: t1t1t
+- Filename: t0t0t
+  Phonemes:
+  - t
+  - 0
+  - t
+  - 0
+  - t
+  Description: t0t0t
+- Filename: tQtQt
+  Phonemes:
+  - t
+  - Q
+  - t
+  - Q
+  - t
+  Description: tQtQt
+- Filename: tXtXt
+  Phonemes:
+  - t
+  - X
+  - t
+  - X
+  - t
+  Description: tXtXt
+- Filename: tVtVt
+  Phonemes:
+  - t
+  - V
+  - t
+  - V
+  - t
+  Description: tVtVt
+- Filename: vavav
+  Phonemes:
+  - v
+  - a
+  - v
+  - a
+  - v
+  Description: vavav
+- Filename: vevev
+  Phonemes:
+  - v
+  - e
+  - v
+  - e
+  - v
+  Description: vevev
+- Filename: viviv
+  Phonemes:
+  - v
+  - i
+  - v
+  - i
+  - v
+  Description: viviv
+- Filename: vovov
+  Phonemes:
+  - v
+  - o
+  - v
+  - o
+  - v
+  Description: vovov
+- Filename: vuvuv
+  Phonemes:
+  - v
+  - u
+  - v
+  - u
+  - v
+  Description: vuvuv
+- Filename: v@v@v
+  Phonemes:
+  - v
+  - '@'
+  - v
+  - '@'
+  - v
+  Description: v@v@v
+- Filename: v7v7v
+  Phonemes:
+  - v
+  - 7
+  - v
+  - 7
+  - v
+  Description: v7v7v
+- Filename: v1v1v
+  Phonemes:
+  - v
+  - 1
+  - v
+  - 1
+  - v
+  Description: v1v1v
+- Filename: v0v0v
+  Phonemes:
+  - v
+  - 0
+  - v
+  - 0
+  - v
+  Description: v0v0v
+- Filename: vQvQv
+  Phonemes:
+  - v
+  - Q
+  - v
+  - Q
+  - v
+  Description: vQvQv
+- Filename: vXvXv
+  Phonemes:
+  - v
+  - X
+  - v
+  - X
+  - v
+  Description: vXvXv
+- Filename: vVvVv
+  Phonemes:
+  - v
+  - V
+  - v
+  - V
+  - v
+  Description: vVvVv
+- Filename: wawaw
+  Phonemes:
+  - w
+  - a
+  - w
+  - a
+  - w
+  Description: wawaw
+- Filename: wewew
+  Phonemes:
+  - w
+  - e
+  - w
+  - e
+  - w
+  Description: wewew
+- Filename: wiwiw
+  Phonemes:
+  - w
+  - i
+  - w
+  - i
+  - w
+  Description: wiwiw
+- Filename: wowow
+  Phonemes:
+  - w
+  - o
+  - w
+  - o
+  - w
+  Description: wowow
+- Filename: wuwuw
+  Phonemes:
+  - w
+  - u
+  - w
+  - u
+  - w
+  Description: wuwuw
+- Filename: w@w@w
+  Phonemes:
+  - w
+  - '@'
+  - w
+  - '@'
+  - w
+  Description: w@w@w
+- Filename: w7w7w
+  Phonemes:
+  - w
+  - 7
+  - w
+  - 7
+  - w
+  Description: w7w7w
+- Filename: w1w1w
+  Phonemes:
+  - w
+  - 1
+  - w
+  - 1
+  - w
+  Description: w1w1w
+- Filename: w0w0w
+  Phonemes:
+  - w
+  - 0
+  - w
+  - 0
+  - w
+  Description: w0w0w
+- Filename: wQwQw
+  Phonemes:
+  - w
+  - Q
+  - w
+  - Q
+  - w
+  Description: wQwQw
+- Filename: wXwXw
+  Phonemes:
+  - w
+  - X
+  - w
+  - X
+  - w
+  Description: wXwXw
+- Filename: wVwVw
+  Phonemes:
+  - w
+  - V
+  - w
+  - V
+  - w
+  Description: wVwVw
+- Filename: yayay
+  Phonemes:
+  - y
+  - a
+  - y
+  - a
+  - y
+  Description: yayay
+- Filename: yeyey
+  Phonemes:
+  - y
+  - e
+  - y
+  - e
+  - y
+  Description: yeyey
+- Filename: yiyiy
+  Phonemes:
+  - y
+  - i
+  - y
+  - i
+  - y
+  Description: yiyiy
+- Filename: yoyoy
+  Phonemes:
+  - y
+  - o
+  - y
+  - o
+  - y
+  Description: yoyoy
+- Filename: yuyuy
+  Phonemes:
+  - y
+  - u
+  - y
+  - u
+  - y
+  Description: yuyuy
+- Filename: y@y@y
+  Phonemes:
+  - y
+  - '@'
+  - y
+  - '@'
+  - y
+  Description: y@y@y
+- Filename: y7y7y
+  Phonemes:
+  - y
+  - 7
+  - y
+  - 7
+  - y
+  Description: y7y7y
+- Filename: y1y1y
+  Phonemes:
+  - y
+  - 1
+  - y
+  - 1
+  - y
+  Description: y1y1y
+- Filename: y0y0y
+  Phonemes:
+  - y
+  - 0
+  - y
+  - 0
+  - y
+  Description: y0y0y
+- Filename: yQyQy
+  Phonemes:
+  - y
+  - Q
+  - y
+  - Q
+  - y
+  Description: yQyQy
+- Filename: yXyXy
+  Phonemes:
+  - y
+  - X
+  - y
+  - X
+  - y
+  Description: yXyXy
+- Filename: yVyVy
+  Phonemes:
+  - y
+  - V
+  - y
+  - V
+  - y
+  Description: yVyVy
+- Filename: zazaz
+  Phonemes:
+  - z
+  - a
+  - z
+  - a
+  - z
+  Description: zazaz
+- Filename: zezez
+  Phonemes:
+  - z
+  - e
+  - z
+  - e
+  - z
+  Description: zezez
+- Filename: ziziz
+  Phonemes:
+  - z
+  - i
+  - z
+  - i
+  - z
+  Description: ziziz
+- Filename: zozoz
+  Phonemes:
+  - z
+  - o
+  - z
+  - o
+  - z
+  Description: zozoz
+- Filename: zuzuz
+  Phonemes:
+  - z
+  - u
+  - z
+  - u
+  - z
+  Description: zuzuz
+- Filename: z@z@z
+  Phonemes:
+  - z
+  - '@'
+  - z
+  - '@'
+  - z
+  Description: z@z@z
+- Filename: z7z7z
+  Phonemes:
+  - z
+  - 7
+  - z
+  - 7
+  - z
+  Description: z7z7z
+- Filename: z1z1z
+  Phonemes:
+  - z
+  - 1
+  - z
+  - 1
+  - z
+  Description: z1z1z
+- Filename: z0z0z
+  Phonemes:
+  - z
+  - 0
+  - z
+  - 0
+  - z
+  Description: z0z0z
+- Filename: zQzQz
+  Phonemes:
+  - z
+  - Q
+  - z
+  - Q
+  - z
+  Description: zQzQz
+- Filename: zXzXz
+  Phonemes:
+  - z
+  - X
+  - z
+  - X
+  - z
+  Description: zXzXz
+- Filename: zVzVz
+  Phonemes:
+  - z
+  - V
+  - z
+  - V
+  - z
+  Description: zVzVz

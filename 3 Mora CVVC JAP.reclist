@@ -1,0 +1,734 @@
+﻿Phonemes:
+  Vowels:
+  - a
+  - i
+  - o
+  - u
+  - e
+  - N
+  Consonants:
+  - b
+  - j
+  - m
+  - k
+  - n
+  - by
+  - ch
+  - d
+  - f
+  - g
+  - gy
+  - h
+  - hy
+  - ky
+  - my
+  - ny
+  - p
+  - py
+  - r
+  - ry
+  - s
+  - sh
+  - t
+  - ts
+  - w
+  - y
+  - z
+Files:
+- Filename: a_u_a
+  Phonemes:
+  - a
+  - u
+  - a
+  Description: a_u_a
+- Filename: a_e_a
+  Phonemes:
+  - a
+  - e
+  - a
+  Description: a_e_a
+- Filename: a_o_a
+  Phonemes:
+  - a
+  - o
+  - a
+  Description: a_o_a
+- Filename: a_n_a
+  Phonemes:
+  - a
+  - n
+  - a
+  Description: a_n_a
+- Filename: i_u_i
+  Phonemes:
+  - i
+  - u
+  - i
+  Description: i_u_i
+- Filename: i_e_i
+  Phonemes:
+  - i
+  - e
+  - i
+  Description: i_e_i
+- Filename: i_o_i
+  Phonemes:
+  - i
+  - o
+  - i
+  Description: i_o_i
+- Filename: i_n_i
+  Phonemes:
+  - i
+  - n
+  - i
+  Description: i_n_i
+- Filename: u_o_u
+  Phonemes:
+  - u
+  - o
+  - u
+  Description: u_o_u
+- Filename: u_n_u
+  Phonemes:
+  - u
+  - n
+  - u
+  Description: u_n_u
+- Filename: e_o_e
+  Phonemes:
+  - e
+  - o
+  - e
+  Description: e_o_e
+- Filename: e_n_e
+  Phonemes:
+  - e
+  - n
+  - e
+  Description: e_n_e
+- Filename: i_i_a
+  Phonemes:
+  - i
+  - i
+  - a
+  Description: i_i_a
+- Filename: a_a_i
+  Phonemes:
+  - a
+  - a
+  - i
+  Description: a_a_i
+- Filename: e_e_u
+  Phonemes:
+  - e
+  - e
+  - u
+  Description: e_e_u
+- Filename: u_u_e
+  Phonemes:
+  - u
+  - u
+  - e
+  Description: u_u_e
+- Filename: n_n_o
+  Phonemes:
+  - n
+  - n
+  - o
+  Description: n_n_o
+- Filename: o_o_n
+  Phonemes:
+  - o
+  - o
+  - n
+  Description: o_o_n
+- Filename: ba_bi_bu
+  Phonemes:
+  - b
+  - a
+  - b
+  - i
+  - b
+  - u
+  Description: ba_bi_bu
+- Filename: bu_be_bo
+  Phonemes:
+  - b
+  - u
+  - b
+  - e
+  - b
+  - o
+  Description: bu_be_bo
+- Filename: n_bo_ba
+  Phonemes:
+  - n
+  - b
+  - o
+  - b
+  - a
+  Description: n_bo_ba
+- Filename: bya_byu_byo
+  Phonemes:
+  - by
+  - a
+  - by
+  - u
+  - by
+  - o
+  Description: bya_byu_byo
+- Filename: cha_chi_chu
+  Phonemes:
+  - ch
+  - a
+  - ch
+  - i
+  - ch
+  - u
+  Description: cha_chi_chu
+- Filename: chu_che_cho
+  Phonemes:
+  - ch
+  - u
+  - ch
+  - e
+  - ch
+  - o
+  Description: chu_che_cho
+- Filename: n_cho_cha
+  Phonemes:
+  - n
+  - ch
+  - o
+  - ch
+  - a
+  Description: n_cho_cha
+- Filename: da_di_du
+  Phonemes:
+  - d
+  - a
+  - d
+  - i
+  - d
+  - u
+  Description: da_di_du
+- Filename: du_de_do
+  Phonemes:
+  - d
+  - u
+  - d
+  - e
+  - d
+  - o
+  Description: du_de_do
+- Filename: n_do_da
+  Phonemes:
+  - n
+  - d
+  - o
+  - d
+  - a
+  Description: n_do_da
+- Filename: fa_fi_fu
+  Phonemes:
+  - f
+  - a
+  - f
+  - i
+  - f
+  - u
+  Description: fa_fi_fu
+- Filename: fu_fe_fo
+  Phonemes:
+  - f
+  - u
+  - f
+  - e
+  - f
+  - o
+  Description: fu_fe_fo
+- Filename: n_fo_fa
+  Phonemes:
+  - n
+  - f
+  - o
+  - f
+  - a
+  Description: n_fo_fa
+- Filename: ga_gi_gu
+  Phonemes:
+  - g
+  - a
+  - g
+  - i
+  - g
+  - u
+  Description: ga_gi_gu
+- Filename: gu_ge_go
+  Phonemes:
+  - g
+  - u
+  - g
+  - e
+  - g
+  - o
+  Description: gu_ge_go
+- Filename: n_go_ga
+  Phonemes:
+  - n
+  - g
+  - o
+  - g
+  - a
+  Description: n_go_ga
+- Filename: gya_gyu_gyo
+  Phonemes:
+  - gy
+  - a
+  - gy
+  - u
+  - gy
+  - o
+  Description: gya_gyu_gyo
+- Filename: fu_ha_ha
+  Phonemes:
+  - f
+  - u
+  - h
+  - a
+  - h
+  - a
+  Description: fu_ha_ha
+- Filename: hi_he_ho
+  Phonemes:
+  - h
+  - i
+  - h
+  - e
+  - h
+  - o
+  Description: hi_he_ho
+- Filename: n_ho_ha
+  Phonemes:
+  - n
+  - h
+  - o
+  - h
+  - a
+  Description: n_ho_ha
+- Filename: hya_hi_hyu
+  Phonemes:
+  - hy
+  - a
+  - h
+  - i
+  - hy
+  - u
+  Description: hya_hi_hyu
+- Filename: he_hyu_hyo
+  Phonemes:
+  - h
+  - e
+  - hy
+  - u
+  - hy
+  - o
+  Description: he_hyu_hyo
+- Filename: n_hyo_hya
+  Phonemes:
+  - n
+  - hy
+  - o
+  - hy
+  - a
+  Description: n_hyo_hya
+- Filename: ja_ji_ju
+  Phonemes:
+  - j
+  - a
+  - j
+  - i
+  - j
+  - u
+  Description: ja_ji_ju
+- Filename: ju_je_jo
+  Phonemes:
+  - j
+  - u
+  - j
+  - e
+  - j
+  - o
+  Description: ju_je_jo
+- Filename: n_jo_ja
+  Phonemes:
+  - n
+  - j
+  - o
+  - j
+  - a
+  Description: n_jo_ja
+- Filename: ka_ki_ku
+  Phonemes:
+  - k
+  - a
+  - k
+  - i
+  - k
+  - u
+  Description: ka_ki_ku
+- Filename: ku_ke_ko
+  Phonemes:
+  - k
+  - u
+  - k
+  - e
+  - k
+  - o
+  Description: ku_ke_ko
+- Filename: n_ko_ka
+  Phonemes:
+  - n
+  - k
+  - o
+  - k
+  - a
+  Description: n_ko_ka
+- Filename: kya_kyu_kyo
+  Phonemes:
+  - ky
+  - a
+  - ky
+  - u
+  - ky
+  - o
+  Description: kya_kyu_kyo
+- Filename: ma_mi_mu
+  Phonemes:
+  - m
+  - a
+  - m
+  - i
+  - m
+  - u
+  Description: ma_mi_mu
+- Filename: mu_me_mo
+  Phonemes:
+  - m
+  - u
+  - m
+  - e
+  - m
+  - o
+  Description: mu_me_mo
+- Filename: n_mo_ma
+  Phonemes:
+  - n
+  - m
+  - o
+  - m
+  - a
+  Description: n_mo_ma
+- Filename: mya_myu_myo
+  Phonemes:
+  - my
+  - a
+  - my
+  - u
+  - my
+  - o
+  Description: mya_myu_myo
+- Filename: na_ni_nu
+  Phonemes:
+  - n
+  - a
+  - n
+  - i
+  - n
+  - u
+  Description: na_ni_nu
+- Filename: nu_ne_no
+  Phonemes:
+  - n
+  - u
+  - n
+  - e
+  - n
+  - o
+  Description: nu_ne_no
+- Filename: n_no_na
+  Phonemes:
+  - n
+  - n
+  - o
+  - n
+  - a
+  Description: n_no_na
+- Filename: nya_nyu_nyo
+  Phonemes:
+  - ny
+  - a
+  - ny
+  - u
+  - ny
+  - o
+  Description: nya_nyu_nyo
+- Filename: pa_pi_pu
+  Phonemes:
+  - p
+  - a
+  - p
+  - i
+  - p
+  - u
+  Description: pa_pi_pu
+- Filename: pu_pe_po
+  Phonemes:
+  - p
+  - u
+  - p
+  - e
+  - p
+  - o
+  Description: pu_pe_po
+- Filename: n_po_pa
+  Phonemes:
+  - n
+  - p
+  - o
+  - p
+  - a
+  Description: n_po_pa
+- Filename: pya_pyu_pyo
+  Phonemes:
+  - py
+  - a
+  - py
+  - u
+  - py
+  - o
+  Description: pya_pyu_pyo
+- Filename: ra_ri_ru
+  Phonemes:
+  - r
+  - a
+  - r
+  - i
+  - r
+  - u
+  Description: ra_ri_ru
+- Filename: ru_re_ro
+  Phonemes:
+  - r
+  - u
+  - r
+  - e
+  - r
+  - o
+  Description: ru_re_ro
+- Filename: n_ro_ra
+  Phonemes:
+  - n
+  - r
+  - o
+  - r
+  - a
+  Description: n_ro_ra
+- Filename: rya_ryu_ryo
+  Phonemes:
+  - ry
+  - a
+  - ry
+  - u
+  - ry
+  - o
+  Description: rya_ryu_ryo
+- Filename: i_sa_su
+  Phonemes:
+  - i
+  - s
+  - a
+  - s
+  - u
+  Description: i_sa_su
+- Filename: su_se_so
+  Phonemes:
+  - s
+  - u
+  - s
+  - e
+  - s
+  - o
+  Description: su_se_so
+- Filename: n_so_sa
+  Phonemes:
+  - n
+  - s
+  - o
+  - s
+  - a
+  Description: n_so_sa
+- Filename: sha_shi_shu
+  Phonemes:
+  - sh
+  - a
+  - sh
+  - i
+  - sh
+  - u
+  Description: sha_shi_shu
+- Filename: shu_she_sho
+  Phonemes:
+  - sh
+  - u
+  - sh
+  - e
+  - sh
+  - o
+  Description: shu_she_sho
+- Filename: n_sho_sha
+  Phonemes:
+  - n
+  - sh
+  - o
+  - sh
+  - a
+  Description: n_sho_sha
+- Filename: ta_ti_tu
+  Phonemes:
+  - t
+  - a
+  - t
+  - i
+  - t
+  - u
+  Description: ta_ti_tu
+- Filename: tu_te_to
+  Phonemes:
+  - t
+  - u
+  - t
+  - e
+  - t
+  - o
+  Description: tu_te_to
+- Filename: n_to_ta
+  Phonemes:
+  - n
+  - t
+  - o
+  - t
+  - a
+  Description: n_to_ta
+- Filename: a_tsu
+  Phonemes:
+  - a
+  - ts
+  - u
+  Description: a_tsu
+- Filename: i_tsu
+  Phonemes:
+  - i
+  - ts
+  - u
+  Description: i_tsu
+- Filename: tsu_tsu
+  Phonemes:
+  - ts
+  - u
+  - ts
+  - u
+  Description: tsu_tsu
+- Filename: e_tsu
+  Phonemes:
+  - e
+  - ts
+  - u
+  Description: e_tsu
+- Filename: o_tsu
+  Phonemes:
+  - o
+  - ts
+  - u
+  Description: o_tsu
+- Filename: n_tsu
+  Phonemes:
+  - n
+  - ts
+  - u
+  Description: n_tsu
+- Filename: wa_wi_wa
+  Phonemes:
+  - w
+  - a
+  - w
+  - i
+  - w
+  - a
+  Description: wa_wi_wa
+- Filename: u_we_wo
+  Phonemes:
+  - u
+  - w
+  - e
+  - w
+  - o
+  Description: u_we_wo
+- Filename: n_wo_wa
+  Phonemes:
+  - n
+  - w
+  - o
+  - w
+  - a
+  Description: n_wo_wa
+- Filename: i_ya_yu
+  Phonemes:
+  - i
+  - y
+  - a
+  - y
+  - u
+  Description: i_ya_yu
+- Filename: yu_ye_yo
+  Phonemes:
+  - y
+  - u
+  - y
+  - e
+  - y
+  - o
+  Description: yu_ye_yo
+- Filename: n_yo_ya
+  Phonemes:
+  - ny
+  - o
+  - y
+  - a
+  Description: n_yo_ya
+- Filename: i_za_zu
+  Phonemes:
+  - i
+  - z
+  - a
+  - z
+  - u
+  Description: i_za_zu
+- Filename: zu_ze_zo
+  Phonemes:
+  - z
+  - u
+  - z
+  - e
+  - z
+  - o
+  Description: zu_ze_zo
+- Filename: n_zo_za
+  Phonemes:
+  - n
+  - z
+  - o
+  - z
+  - a
+  Description: n_zo_za
