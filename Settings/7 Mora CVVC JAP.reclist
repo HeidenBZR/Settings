@@ -2,734 +2,690 @@
   Vowels:
   - a
   - i
-  - o
   - u
   - e
+  - o
   - N
+  - nn
   Consonants:
-  - b
-  - j
-  - m
   - k
-  - n
-  - by
+  - ky
+  - s
+  - sh
+  - t
+  - ty
   - ch
-  - d
-  - f
   - g
   - gy
+  - z
+  - d
+  - dy
+  - j
+  - ny
   - h
   - hy
-  - ky
+  - m
   - my
-  - ny
+  - b
+  - by
   - p
   - py
   - r
   - ry
-  - s
-  - sh
-  - t
-  - ts
-  - w
   - y
-  - z
+  - w
+  - ts
+  - f
+  - v
+  - ・
+  - n
+  - ya
+  - ba
+  - ra
+  - rya
+  - wu
+  - wa
 Files:
-- Filename: a_u_a
+- Filename: _あ・あ・い・う・え・ん
   Phonemes:
+  - a
+  - ・
+  - a
+  - ・
+  - i
+  - ・
+  - u
+  - ・
+  - e
+  - ・
+  - nn
+  Description: _あ・あ・い・う・え・ん
+- Filename: _ああいあうえあ
+  Phonemes:
+  - a
+  - a
+  - i
   - a
   - u
-  - a
-  Description: a_u_a
-- Filename: a_e_a
-  Phonemes:
-  - a
   - e
   - a
-  Description: a_e_a
-- Filename: a_o_a
+  Description: _ああいあうえあ
+- Filename: _あかさたがざだ
   Phonemes:
   - a
-  - o
-  - a
-  Description: a_o_a
-- Filename: a_n_a
-  Phonemes:
-  - a
-  - N
-  - a
-  Description: a_n_a
-- Filename: i_u_i
-  Phonemes:
-  - i
-  - u
-  - i
-  Description: i_u_i
-- Filename: i_e_i
-  Phonemes:
-  - i
-  - e
-  - i
-  Description: i_e_i
-- Filename: i_o_i
-  Phonemes:
-  - i
-  - o
-  - i
-  Description: i_o_i
-- Filename: i_n_i
-  Phonemes:
-  - i
-  - N
-  - i
-  Description: i_n_i
-- Filename: u_o_u
-  Phonemes:
-  - u
-  - o
-  - u
-  Description: u_o_u
-- Filename: u_n_u
-  Phonemes:
-  - u
-  - N
-  - u
-  Description: u_n_u
-- Filename: e_o_e
-  Phonemes:
-  - e
-  - o
-  - e
-  Description: e_o_e
-- Filename: e_n_e
-  Phonemes:
-  - e
-  - N
-  - e
-  Description: e_n_e
-- Filename: i_i_a
-  Phonemes:
-  - i
-  - i
-  - a
-  Description: i_i_a
-- Filename: a_a_i
-  Phonemes:
-  - a
-  - a
-  - i
-  Description: a_a_i
-- Filename: e_e_u
-  Phonemes:
-  - e
-  - e
-  - u
-  Description: e_e_u
-- Filename: u_u_e
-  Phonemes:
-  - u
-  - u
-  - e
-  Description: u_u_e
-- Filename: n_n_o
-  Phonemes:
-  - N
-  - N
-  - o
-  Description: n_n_o
-- Filename: o_o_n
-  Phonemes:
-  - o
-  - o
-  - N
-  Description: o_o_n
-- Filename: ba_bi_bu
-  Phonemes:
-  - b
-  - a
-  - b
-  - i
-  - b
-  - u
-  Description: ba_bi_bu
-- Filename: bu_be_bo
-  Phonemes:
-  - b
-  - u
-  - b
-  - e
-  - b
-  - o
-  Description: bu_be_bo
-- Filename: n_bo_ba
-  Phonemes:
-  - N
-  - b
-  - o
-  - b
-  - a
-  Description: n_bo_ba
-- Filename: bya_byu_byo
-  Phonemes:
-  - by
-  - a
-  - by
-  - u
-  - by
-  - o
-  Description: bya_byu_byo
-- Filename: cha_chi_chu
-  Phonemes:
-  - ch
-  - a
-  - ch
-  - i
-  - ch
-  - u
-  Description: cha_chi_chu
-- Filename: chu_che_cho
-  Phonemes:
-  - ch
-  - u
-  - ch
-  - e
-  - ch
-  - o
-  Description: chu_che_cho
-- Filename: n_cho_cha
-  Phonemes:
-  - N
-  - ch
-  - o
-  - ch
-  - a
-  Description: n_cho_cha
-- Filename: da_di_du
-  Phonemes:
-  - d
-  - a
-  - d
-  - i
-  - d
-  - u
-  Description: da_di_du
-- Filename: du_de_do
-  Phonemes:
-  - d
-  - u
-  - d
-  - e
-  - d
-  - o
-  Description: du_de_do
-- Filename: n_do_da
-  Phonemes:
-  - n
-  - d
-  - o
-  - d
-  - a
-  Description: n_do_da
-- Filename: fa_fi_fu
-  Phonemes:
-  - f
-  - a
-  - f
-  - i
-  - f
-  - u
-  Description: fa_fi_fu
-- Filename: fu_fe_fo
-  Phonemes:
-  - f
-  - u
-  - f
-  - e
-  - f
-  - o
-  Description: fu_fe_fo
-- Filename: n_fo_fa
-  Phonemes:
-  - N
-  - f
-  - o
-  - f
-  - a
-  Description: n_fo_fa
-- Filename: ga_gi_gu
-  Phonemes:
-  - g
-  - a
-  - g
-  - i
-  - g
-  - u
-  Description: ga_gi_gu
-- Filename: gu_ge_go
-  Phonemes:
-  - g
-  - u
-  - g
-  - e
-  - g
-  - o
-  Description: gu_ge_go
-- Filename: n_go_ga
-  Phonemes:
-  - N
-  - g
-  - o
-  - g
-  - a
-  Description: n_go_ga
-- Filename: gya_gyu_gyo
-  Phonemes:
-  - gy
-  - a
-  - gy
-  - u
-  - gy
-  - o
-  Description: gya_gyu_gyo
-- Filename: fu_ha_ha
-  Phonemes:
-  - f
-  - u
-  - h
-  - a
-  - h
-  - a
-  Description: fu_ha_ha
-- Filename: hi_he_ho
-  Phonemes:
-  - h
-  - i
-  - h
-  - e
-  - h
-  - o
-  Description: hi_he_ho
-- Filename: n_ho_ha
-  Phonemes:
-  - N
-  - h
-  - o
-  - h
-  - a
-  Description: n_ho_ha
-- Filename: hya_hi_hyu
-  Phonemes:
-  - hy
-  - a
-  - h
-  - i
-  - hy
-  - u
-  Description: hya_hi_hyu
-- Filename: he_hyu_hyo
-  Phonemes:
-  - h
-  - e
-  - hy
-  - u
-  - hy
-  - o
-  Description: he_hyu_hyo
-- Filename: n_hyo_hya
-  Phonemes:
-  - N
-  - hy
-  - o
-  - hy
-  - a
-  Description: n_hyo_hya
-- Filename: ja_ji_ju
-  Phonemes:
-  - j
-  - a
-  - j
-  - i
-  - j
-  - u
-  Description: ja_ji_ju
-- Filename: ju_je_jo
-  Phonemes:
-  - j
-  - u
-  - j
-  - e
-  - j
-  - o
-  Description: ju_je_jo
-- Filename: n_jo_ja
-  Phonemes:
-  - N
-  - j
-  - o
-  - j
-  - a
-  Description: n_jo_ja
-- Filename: ka_ki_ku
-  Phonemes:
   - k
   - a
-  - k
-  - i
-  - k
-  - u
-  Description: ka_ki_ku
-- Filename: ku_ke_ko
-  Phonemes:
-  - k
-  - u
-  - k
-  - e
-  - k
-  - o
-  Description: ku_ke_ko
-- Filename: n_ko_ka
-  Phonemes:
-  - N
-  - k
-  - o
-  - k
+  - s
   - a
-  Description: n_ko_ka
-- Filename: kya_kyu_kyo
+  - t
+  - a
+  - g
+  - a
+  - z
+  - a
+  - d
+  - a
+  Description: _あかさたがざだ
+- Filename: _あきゃしゃちゃぎゃじゃてゃ
   Phonemes:
+  - a
   - ky
   - a
+  - sh
+  - a
+  - ch
+  - a
+  - gy
+  - a
+  - j
+  - a
+  - ty
+  - a
+  Description: _あきゃしゃちゃぎゃじゃてゃ
+- Filename: _あなはまばぱら
+  Phonemes:
+  - a
+  - n
+  - a
+  - h
+  - a
+  - m
+  - a
+  - b
+  - a
+  - p
+  - a
+  - r
+  - a
+  Description: _あなはまばぱら
+- Filename: _あにゃひゃみゃびゃぴゃりゃ
+  Phonemes:
+  - a
+  - ny
+  - a
+  - hy
+  - a
+  - my
+  - a
+  - by
+  - a
+  - py
+  - a
+  - ry
+  - a
+  Description: _あにゃひゃみゃびゃぴゃりゃ
+- Filename: _あやわちゃつぁふぁヴぁ
+  Phonemes:
+  - a
+  - y
+  - a
+  - w
+  - a
+  - ch
+  - a
+  - ts
+  - a
+  - f
+  - a
+  - v
+  - a
+  Description: _あやわちゃつぁふぁヴぁ
+- Filename: _いいうあえいえ
+  Phonemes:
+  - i
+  - i
+  - u
+  - a
+  - e
+  - i
+  - e
+  Description: _いいうあえいえ
+- Filename: _いいうぃちつぃふぃヴぃ
+  Phonemes:
+  - i
+  - i
+  - w
+  - i
+  - ch
+  - i
+  - ts
+  - i
+  - f
+  - i
+  - v
+  - i
+  Description: _いいうぃちつぃふぃヴぃ
+- Filename: _いかいさいた
+  Phonemes:
+  - i
+  - k
+  - a
+  - i
+  - s
+  - a
+  - i
+  - t
+  - a
+  Description: _いかいさいた
+- Filename: _いがいざいだ
+  Phonemes:
+  - i
+  - g
+  - a
+  - i
+  - z
+  - a
+  - i
+  - d
+  - a
+  Description: _いがいざいだ
+- Filename: _いきしてぃぎじでぃ
+  Phonemes:
+  - i
+  - ky
+  - i
+  - sh
+  - i
+  - ty
+  - i
+  - gy
+  - i
+  - j
+  - i
+  - dy
+  - i
+  Description: _いきしてぃぎじでぃ
+- Filename: _いないやいま
+  Phonemes:
+  - i
+  - n
+  - a
+  - i
+  - y
+  - a
+  - i
+  - m
+  - a
+  Description: _いないやいま
+- Filename: _いにひみびぴり
+  Phonemes:
+  - i
+  - ny
+  - i
+  - hy
+  - i
+  - my
+  - i
+  - by
+  - i
+  - py
+  - i
+  - ry
+  - i
+  Description: _いにひみびぴり
+- Filename: _いばいぱいら
+  Phonemes:
+  - i
+  - b
+  - a
+  - i
+  - p
+  - a
+  - i
+  - r
+  - a
+  Description: _いばいぱいら
+- Filename: _いはうはんは
+  Phonemes:
+  - i
+  - h
+  - a
+  - u
+  - h
+  - a
+  - nn
+  - h
+  - a
+  Description: _いはうはんは
+- Filename: _うういおあおい
+  Phonemes:
+  - u
+  - u
+  - i
+  - o
+  - a
+  - o
+  - i
+  Description: _うういおあおい
+- Filename: _うきゅしゅちゅぎゅじゅてゅ
+  Phonemes:
+  - u
   - ky
   - u
+  - sh
+  - u
+  - ch
+  - u
+  - gy
+  - u
+  - j
+  - u
+  - ty
+  - u
+  Description: _うきゅしゅちゅぎゅじゅてゅ
+- Filename: _うくすとぅぐずどぅ
+  Phonemes:
+  - u
+  - k
+  - u
+  - s
+  - u
+  - t
+  - u
+  - g
+  - u
+  - z
+  - u
+  - d
+  - u
+  Description: _うくすとぅぐずどぅ
+- Filename: _うにゅひゅみゅびゅぴゅりゅ
+  Phonemes:
+  - u
+  - ny
+  - u
+  - hy
+  - u
+  - my
+  - u
+  - by
+  - u
+  - py
+  - u
+  - ry
+  - u
+  Description: _うにゅひゅみゅびゅぴゅりゅ
+- Filename: _うぬふむぶぷる
+  Phonemes:
+  - u
+  - n
+  - u
+  - f
+  - u
+  - m
+  - u
+  - b
+  - u
+  - p
+  - u
+  - r
+  - u
+  Description: _うぬふむぶぷる
+- Filename: _うゆうぅちゅつふヴ
+  Phonemes:
+  - u
+  - y
+  - u
+  - w
+  - u
+  - ch
+  - u
+  - ts
+  - u
+  - f
+  - u
+  - v
+  - u
+  Description: _うゆうぅちゅつふヴ
+- Filename: _えいぇうぇちぇつぇふぇヴぇ
+  Phonemes:
+  - e
+  - y
+  - e
+  - w
+  - e
+  - ch
+  - e
+  - ts
+  - e
+  - f
+  - e
+  - v
+  - e
+  Description: _えいぇうぇちぇつぇふぇヴぇ
+- Filename: _ええうおえおお
+  Phonemes:
+  - e
+  - e
+  - u
+  - o
+  - e
+  - o
+  - o
+  Description: _ええうおえおお
+- Filename: _えきぇしぇちぇぎぇじぇてぇ
+  Phonemes:
+  - e
+  - ky
+  - e
+  - sh
+  - e
+  - ch
+  - e
+  - gy
+  - e
+  - j
+  - e
+  - ty
+  - e
+  Description: _えきぇしぇちぇぎぇじぇてぇ
+- Filename: _えけせてげぜで
+  Phonemes:
+  - e
+  - k
+  - e
+  - s
+  - e
+  - t
+  - e
+  - g
+  - e
+  - z
+  - e
+  - d
+  - e
+  Description: _えけせてげぜで
+- Filename: _えにぇひぇみぇびぇぴぇりぇ
+  Phonemes:
+  - e
+  - ny
+  - e
+  - hy
+  - e
+  - my
+  - e
+  - by
+  - e
+  - py
+  - e
+  - ry
+  - e
+  Description: _えにぇひぇみぇびぇぴぇりぇ
+- Filename: _えねへめべぺれ
+  Phonemes:
+  - e
+  - n
+  - e
+  - h
+  - e
+  - m
+  - e
+  - b
+  - e
+  - p
+  - e
+  - r
+  - e
+  Description: _えねへめべぺれ
+- Filename: _お・お・ン・ン
+  Phonemes:
+  - o
+  - ・
+  - o
+  - ・
+  - N
+  - ・
+  - N
+  Description: _お・お・ン・ン
+- Filename: _おうんあんんう
+  Phonemes:
+  - o
+  - u
+  - nn
+  - a
+  - nn
+  - nn
+  - u
+  Description: _おうんあんんう
+- Filename: _おきょしょちょぎょじょてょ
+  Phonemes:
+  - o
   - ky
   - o
-  Description: kya_kyu_kyo
-- Filename: ma_mi_mu
-  Phonemes:
-  - m
-  - a
-  - m
-  - i
-  - m
-  - u
-  Description: ma_mi_mu
-- Filename: mu_me_mo
-  Phonemes:
-  - m
-  - u
-  - m
-  - e
-  - m
+  - sh
   - o
-  Description: mu_me_mo
-- Filename: n_mo_ma
-  Phonemes:
-  - N
-  - m
+  - ch
   - o
-  - m
-  - a
-  Description: n_mo_ma
-- Filename: mya_myu_myo
-  Phonemes:
-  - my
-  - a
-  - my
-  - u
-  - my
+  - gy
   - o
-  Description: mya_myu_myo
-- Filename: na_ni_nu
-  Phonemes:
-  - n
-  - a
-  - n
-  - i
-  - n
-  - u
-  Description: na_ni_nu
-- Filename: nu_ne_no
-  Phonemes:
-  - n
-  - u
-  - n
-  - e
-  - n
+  - j
   - o
-  Description: nu_ne_no
-- Filename: n_no_na
-  Phonemes:
-  - N
-  - n
+  - ty
   - o
-  - n
-  - a
-  Description: n_no_na
-- Filename: nya_nyu_nyo
+  Description: _おきょしょちょぎょじょてょ
+- Filename: _おこそとごぞど
   Phonemes:
-  - ny
-  - a
-  - ny
-  - u
+  - o
+  - k
+  - o
+  - s
+  - o
+  - t
+  - o
+  - g
+  - o
+  - z
+  - o
+  - d
+  - o
+  Description: _おこそとごぞど
+- Filename: _おにょひょみょびょぴょりょ
+  Phonemes:
+  - o
   - ny
   - o
-  Description: nya_nyu_nyo
-- Filename: pa_pi_pu
-  Phonemes:
-  - p
-  - a
-  - p
-  - i
-  - p
-  - u
-  Description: pa_pi_pu
-- Filename: pu_pe_po
-  Phonemes:
-  - p
-  - u
-  - p
-  - e
-  - p
+  - hy
   - o
-  Description: pu_pe_po
-- Filename: n_po_pa
-  Phonemes:
-  - N
-  - p
+  - my
   - o
-  - p
-  - a
-  Description: n_po_pa
-- Filename: pya_pyu_pyo
-  Phonemes:
-  - py
-  - a
-  - py
-  - u
+  - by
+  - o
   - py
   - o
-  Description: pya_pyu_pyo
-- Filename: ra_ri_ru
-  Phonemes:
-  - r
-  - a
-  - r
-  - i
-  - r
-  - u
-  Description: ra_ri_ru
-- Filename: ru_re_ro
-  Phonemes:
-  - r
-  - u
-  - r
-  - e
-  - r
-  - o
-  Description: ru_re_ro
-- Filename: n_ro_ra
-  Phonemes:
-  - N
-  - r
-  - o
-  - r
-  - a
-  Description: n_ro_ra
-- Filename: rya_ryu_ryo
-  Phonemes:
-  - ry
-  - a
-  - ry
-  - u
   - ry
   - o
-  Description: rya_ryu_ryo
-- Filename: i_sa_su
-  Phonemes:
-  - i
-  - s
-  - a
-  - s
-  - u
-  Description: i_sa_su
-- Filename: su_se_so
-  Phonemes:
-  - s
-  - u
-  - s
-  - e
-  - s
-  - o
-  Description: su_se_so
-- Filename: n_so_sa
-  Phonemes:
-  - N
-  - s
-  - o
-  - s
-  - a
-  Description: n_so_sa
-- Filename: sha_shi_shu
-  Phonemes:
-  - sh
-  - a
-  - sh
-  - i
-  - sh
-  - u
-  Description: sha_shi_shu
-- Filename: shu_she_sho
-  Phonemes:
-  - sh
-  - u
-  - sh
-  - e
-  - sh
-  - o
-  Description: shu_she_sho
-- Filename: n_sho_sha
-  Phonemes:
-  - N
-  - sh
-  - o
-  - sh
-  - a
-  Description: n_sho_sha
-- Filename: ta_ti_tu
-  Phonemes:
-  - t
-  - a
-  - t
-  - i
-  - t
-  - u
-  Description: ta_ti_tu
-- Filename: tu_te_to
-  Phonemes:
-  - t
-  - u
-  - t
-  - e
-  - t
-  - o
-  Description: tu_te_to
-- Filename: n_to_ta
-  Phonemes:
-  - N
-  - t
-  - o
-  - t
-  - a
-  Description: n_to_ta
-- Filename: a_tsu
-  Phonemes:
-  - a
-  - ts
-  - u
-  Description: a_tsu
-- Filename: i_tsu
-  Phonemes:
-  - i
-  - ts
-  - u
-  Description: i_tsu
-- Filename: tsu_tsu
-  Phonemes:
-  - ts
-  - u
-  - ts
-  - u
-  Description: tsu_tsu
-- Filename: e_tsu
-  Phonemes:
-  - e
-  - ts
-  - u
-  Description: e_tsu
-- Filename: o_tsu
+  Description: _おにょひょみょびょぴょりょ
+- Filename: _おのほもぼぽろ
   Phonemes:
   - o
-  - ts
-  - u
-  Description: o_tsu
-- Filename: n_tsu
-  Phonemes:
-  - N
-  - ts
-  - u
-  Description: n_tsu
-- Filename: wa_wi_wa
-  Phonemes:
-  - w
-  - a
-  - w
-  - i
-  - w
-  - a
-  Description: wa_wi_wa
-- Filename: u_we_wo
-  Phonemes:
-  - u
-  - w
-  - e
-  - w
-  - o
-  Description: u_we_wo
-- Filename: n_wo_wa
-  Phonemes:
-  - N
-  - w
-  - o
-  - w
-  - a
-  Description: n_wo_wa
-- Filename: i_ya_yu
-  Phonemes:
-  - i
-  - y
-  - a
-  - y
-  - u
-  Description: i_ya_yu
-- Filename: yu_ye_yo
-  Phonemes:
-  - y
-  - u
-  - y
-  - e
-  - y
-  - o
-  Description: yu_ye_yo
-- Filename: n_yo_ya
-  Phonemes:
   - n
-  - y
+  - o
+  - h
+  - o
+  - m
+  - o
+  - b
+  - o
+  - p
+  - o
+  - r
+  - o
+  Description: _おのほもぼぽろ
+- Filename: _おようぉちょつぉふぉヴぉ
+  Phonemes:
   - o
   - y
-  - a
-  Description: n_yo_ya
-- Filename: i_za_zu
+  - o
+  - w
+  - o
+  - ch
+  - o
+  - ts
+  - o
+  - f
+  - o
+  - v
+  - o
+  Description: _おようぉちょつぉふぉヴぉ
+- Filename: _んいんえんおん
   Phonemes:
+  - nn
   - i
-  - z
-  - a
-  - z
-  - u
-  Description: i_za_zu
-- Filename: zu_ze_zo
-  Phonemes:
-  - z
-  - u
-  - z
+  - nn
   - e
-  - z
+  - nn
   - o
-  Description: zu_ze_zo
-- Filename: n_zo_za
+  - nn
+  Description: _んいんえんおん
+- Filename: _ンヴンはンひ
   Phonemes:
   - N
-  - z
-  - o
+  - v
+  - u
+  - N
+  - h
+  - a
+  - N
+  - h
+  - i
+  Description: _ンヴンはンひ
+- Filename: _んかんさんた
+  Phonemes:
+  - nn
+  - k
+  - a
+  - nn
+  - s
+  - a
+  - nn
+  - t
+  - a
+  Description: _んかんさんた
+- Filename: _んがんざんだ
+  Phonemes:
+  - nn
+  - g
+  - a
+  - nn
   - z
   - a
-  Description: n_zo_za
+  - nn
+  - d
+  - a
+  Description: _んがんざんだ
+- Filename: _んきゃんしゃんちゃ
+  Phonemes:
+  - nn
+  - ky
+  - a
+  - nn
+  - sh
+  - a
+  - nn
+  - ch
+  - a
+  Description: _んきゃんしゃんちゃ
+- Filename: _んぎゃんじゃんつぁ
+  Phonemes:
+  - nn
+  - gy
+  - a
+  - nn
+  - j
+  - a
+  - nn
+  - ts
+  - a
+  Description: _んぎゃんじゃんつぁ
+- Filename: _んなんぱんま
+  Phonemes:
+  - nn
+  - n
+  - a
+  - nn
+  - p
+  - a
+  - nn
+  - m
+  - a
+  Description: _んなんぱんま
+- Filename: _んにゃんぴゃんみゃ
+  Phonemes:
+  - nn
+  - ny
+  - a
+  - nn
+  - py
+  - a
+  - nn
+  - my
+  - a
+  Description: _んにゃんぴゃんみゃ
+- Filename: _んひゃんびゃんふぁ
+  Phonemes:
+  - nn
+  - hy
+  - a
+  - nn
+  - by
+  - a
+  - nn
+  - f
+  - a
+  Description: _んひゃんびゃんふぁ
+- Filename: _ンふンやンわ
+  Phonemes:
+  - N
+  - f
+  - u
+  - N
+  - y
+  - a
+  - N
+  - w
+  - a
+  Description: _ンふンやンわ
+- Filename: _んやんばんら
+  Phonemes:
+  - nn
+  - y
+  - a
+  - nn
+  - b
+  - a
+  - nn
+  - r
+  - a
+  Description: _んやんばんら
+- Filename: _んりゃんヴんわ
+  Phonemes:
+  - nn
+  - ry
+  - a
+  - nn
+  - v
+  - u
+  - nn
+  - w
+  - a
+  Description: _んりゃんヴんわ
