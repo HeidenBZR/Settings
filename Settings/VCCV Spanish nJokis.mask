@@ -1,0 +1,264 @@
+MaxDuplicates: 0
+WavGroups:
+- Name: VV
+  WavFiles:
+  - -a_a_e_a_o_a-
+  - -e_e_i_e_u_e-
+  - -i_i_o_i_a_i-
+  - -o_o_u_o_e_o-
+  - -u_u_a_u_i_u-
+  AliasTypes:
+  - Name: RV
+    CanTakeFromAllPositions: true
+  - Name: VV
+    CanTakeFromAllPositions: true
+  - Name: VR
+    CanTakeFromAllPositions: true
+- Name: vowels
+  WavFiles:
+  - __a
+  - __e
+  - __i
+  - __o
+  - __u
+  AliasTypes:
+  - Name: V
+    CanTakeFromAllPositions: true
+- Name: wy
+  WavFiles:
+  - _ka_ya_wa
+  - _ki_yi_wi
+  - _ke_ye_we
+  - _ko_yo_wo
+  - _ku_yu_wu
+  AliasTypes:
+  - Name: CV
+    Positions:
+    - 2
+    - 3
+  - Name: VC
+    CanTakeFromAllPositions: true
+  SkipC:
+    - 0
+  SkipR:
+    - 0
+    - 1
+- Name: CC
+  WavFiles:
+  - _tom_rre
+  - _kaI_kaI
+  - _keI_keI
+  - _koI_koI
+  - _kuI_kuI
+  - _kaU_kaU
+  - _keU_keU
+  - _koU_koU
+  - _keU_yeU_we
+  - _keU_leU_re
+  - _keU_rreU_Be
+  - _keU_DeU_Ge
+  - _keU_peU_ke
+  - _keU_kseU_te
+  - _keU_neU_me
+  - _keU_nJeU_se
+  - _keU_feU_xe
+  - _keU_jjeU_che
+  - _keI_yeI_we
+  - _keI_leI_re
+  - _keI_rreI_Be
+  - _keI_DeI_Ge
+  - _keI_peI_ke
+  - _keI_kseI_te
+  - _keI_neI_me
+  - _keI_nJeI_se
+  - _keI_feI_xe
+  - _keI_jjeI_che
+  - -jjye_jjye_jj_te
+  - -chye_chye
+  - _ka_nJi
+  - _kyu_kEu
+  - rf_rG__ker_fer_Ge--
+  - rB_rD__ker_Ber_DeD--
+  - rx_rl__ker_xer_lel--
+  - rm_rn__ker_mer_nen--
+  - rs_ry__ker_ser_yer--
+  - rnJ_rjj__ker_nJer_jjem--
+  - rk_rt_rp__ker_ker_ter_pes--
+  - rf_rG__kir_fir_Gi--
+  - rB_rD__kir_Bir_Dirr--
+  - rx_rl__kir_xir_li
+  - rm_rn__kir_mir_ni
+  - rs_ry__kir_sir_yir--
+  - rnJ_rjj__kir_nJir_jji
+  - rk_rt_rp__kir_kir_tir_pi
+  - rf_rG__kur_fur_Gu--
+  - rB_rD__kur_Bur_Du
+  - rx_rl__kur_xur_lu
+  - rm_rn__kur_mur_nu
+  - rs_ry__kur_sur_yur--
+  - rnJ_rjj__kur_nJur_jju
+  - rk_rt_rp__kur_kur_tur_pu
+  - rf_rG__kor_for_Go--
+  - rB_rD__kor_Bor_Do
+  - rx_rl__kor_xor_lo
+  - rm_rn__kor_mor_no
+  - rs_ry__kor_sor_yor--
+  - rnJ_rjj__kor_nJor_jjo
+  - rk_rt_rp__kor_kor_tor_po
+  - rf_rG__kar_far_Ga--
+  - rB_rD__kar_Bar_Da
+  - rx_rl__kar_xar_la
+  - rm_rn__kar_mar_na
+  - rs_ry__kar_sar_yar--
+  - rnJ_rjj__kar_nJar_jja
+  - rk_rt_rp__kar_kar_tar_pa
+  - _kek_bek_ge
+  - _kek_xeg_me
+  - _keg_tejj_Be
+  - _keD_xeD_rre
+  - _keD_BeD_De
+  - _keD_GeD_ne
+  - _keD_nJeD_fe
+  - _keD_jjeD_che
+  - _keD_teB_xe
+  - _keB_DeB_jje
+  - _keB_xeD_me
+  - _kex_seG_xe
+  - _keG_ses_nJe
+  AliasTypes:
+  - Name: CC
+    CanTakeFromAllPositions: true
+  - Name: CR
+    CanTakeFromAllPositions: true
+  SkipC:
+    - 0
+  SkipR:
+    - 0
+    - 1
+- Name: C largos
+  WavFiles:
+  - _jje
+  - _sse
+  - _lle
+  - _mme
+  - _nne
+  - _GGe
+  - _DDe
+  - _BBe
+  - _ffe
+  - _xxe
+  - _rre
+  AliasTypes:
+  - Name: RV
+    CanTakeFromAllPositions: true
+  - Name: VR
+    CanTakeFromAllPositions: true
+- Name: RC-CV-VC
+  WavFiles:-ba_rye_DaD_nek_tar-
+  - -bi_o_a_rya_rre_lox-
+  - -ye_lo_grwe_so
+  - -we_le_ko_mo_pes-
+  - -le_nJa_rro_xi_sa
+  - -rre_Ga_lo_se_rra_Do
+  - -be_Bi_Da_pa_ra_ti_rarr-
+  - -gas_rre_al_jjo
+  - -kse_no_fo_Bi_ko_fla_ko
+  - -ne_Gar_fe_os-
+  - -me_Gol_pEo
+  - -se_ksis_xe_mas-
+  - -fe_li_no_De_so_na_sur-
+  - -xel_rru_ta_turr_no
+  - -jjel_mo_Gi_nJo
+  - -chis_chis
+  - -nJo_kis_De_rri_ko_ta
+  - -bos_ke_xo_maG_ma
+  - -burr_Ges_lo_ko
+  - -de_im_per_mEa_Ble_swa_Be
+  - -dis_kul_pa_me_lu_ka_as-
+  - -do_sil_pe_ro_rru_Do
+  - -du_ran_te_la_jju_Bya
+  - -go_so_kom_par_tir-
+  - -bya_xe_fal_ta_ri_a
+  - -dye_ta_o_ryu_un_Da
+  - -bwen_Ba_tir-
+  - -gre_Go_ryo_jjo_ra
+  - -blok_de_Di_Bu_xo
+  - -glan_Du_la_furr_ti_Ba
+  - -prwe_Bo_Gin_Da_ne_Gra
+  - -pi_ksel_chwe_ko
+  - -plye_Ges_na_if-
+  - -bren_Da_am_ne_sya_Gorr_Da
+  - -ge_ko_keB-
+  - -gi_so_keG-
+  - -gu_la_kem-
+  - -da_Do_kejj-
+  - -gyon_kech-
+  - -dwe_le_u_niD_lo
+  - -dre_na_es_te_ksu
+  - -gwe_ro_o_ksi_Den_te
+  - _kro_nos_flan_jjak-
+  - _rre_lox_kwi_Dar_Di_Go
+  - _al_Gu_nos_Bu_rros-
+  - _al_fom_Bra_a_nJe_xa
+  - _el_fwe_Go_Bom_Ba
+  - _aD_mi_to_nJo_kis-
+  - _ar_tas_Go_in_fer_nal-
+  - _e_jja_rre_pu_Dya_mu_cho
+  - _el_fyel_Dok_tor-
+  - _a_te_o_kon_seD-
+  - _e_pi_fo_ne_ma_chi_mwe_lo
+  - _kon_mi_xu_Ge_te
+  - _el_ke_kye_ra_ne_ksos
+  - _ar_te_aBs_trak_to
+  - _pul_po_la_Dro_on-
+  - _a_Du_larr_me_el_ni_Bel-
+  - _un_ki_lo_De_na_ran_xas
+  - _plan_cha_a_per_Der-
+  - _a_tle_tis_mo_ru_Ga
+  - _aB_Do_mi_nal-
+  - _eks_tre_mo_o_cho
+  - _glo_Bo_De_Be_nus-
+  - _ar_Des_jja_mi_DeI_DaD-
+  - _la_myel_se_ka
+  - _aI_ke_a_jju_Darr_lo
+  - _serr_Bwe_no_i_jja
+  - _el_Be_so_Gol_fis_ta
+  - _en_nwe_Bos_en_rre_Dos-
+  - _kli_ma_ap_to
+  - _el_fru_to_kru_Do
+  - _el_xwe_Go_Del_no
+  - _ak_twar_Byen-
+  - _a_Bra_so_la_ksan_te
+  - _kon_fye_en_Gi_jjerr_mo
+  - _a_jji_pwe_Deks_fo_lyarr_se
+  - _a_Dwa_nas_plu_ma
+  - _a_fi_che_nu_lo
+  - _es_fri_o_a_tle_ta
+  - _ke_tsal_ko_a_atl-
+  - _kluB_tek_no_pop-
+  - _maG_Da_le_nas_cha_let-
+  - _ten_GoUn_plye_Ge
+  - _un_nJo_ki_serr_feo
+  - _tu_nJu_fu_ksya
+  - _e_klip_se_chu_pa
+  - _tu_suB_no_ta
+  - _dig_no_Del_la_Go
+  - _tam_tan_la
+  - _el_nJo_ki_an_cho
+  - _tom_me_kre_e_a_kwo_sa
+  - _kons_ta_jjwe_Be_kye_re
+  - _byu_Da_kwal_pye
+  - _mi_Gyon_es_chi_ko
+  - _suB_marr_xen
+  - _seD_serr_feo
+  - _a_tyem_po_pra_Do
+  - _mi_rro_ka_a_u_jja
+  - _si_jja_nye_Bla_a_prye_ta
+  - _a_Gwa_rrit_mo_Glas
+  AliasTypes:
+  - Name: RC
+    CanTakeFromAllPositions: true
+  - Name: VC
+    CanTakeFromAllPositions: true
+  - Name: CV
+    CanTakeFromAllPositions: true
