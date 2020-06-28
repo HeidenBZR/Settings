@@ -17,3 +17,11 @@ Default:
     CanTakeFromAllPositions: true
   - Name: VV
     CanTakeFromAllPositions: true
+WavGroups:
+- Name: VC
+  WavFiles:
+  - o_byo_gyo_kyo
+  - o_nyo_myo_pyo_ryo
+  AliasTypes: 
+  - Name: VC
+    CanTakeFromAllPositions: true

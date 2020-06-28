@@ -56,7 +56,7 @@ Files:
 - Filename: a_n_a
   Phonemes:
   - a
-  - n
+  - N
   - a
   Description: a_n_a
 - Filename: i_u_i
@@ -80,7 +80,7 @@ Files:
 - Filename: i_n_i
   Phonemes:
   - i
-  - n
+  - N
   - i
   Description: i_n_i
 - Filename: u_o_u
@@ -92,7 +92,7 @@ Files:
 - Filename: u_n_u
   Phonemes:
   - u
-  - n
+  - N
   - u
   Description: u_n_u
 - Filename: e_o_e
@@ -104,7 +104,7 @@ Files:
 - Filename: e_n_e
   Phonemes:
   - e
-  - n
+  - N
   - e
   Description: e_n_e
 - Filename: i_i_a
@@ -133,15 +133,15 @@ Files:
   Description: u_u_e
 - Filename: n_n_o
   Phonemes:
-  - n
-  - n
+  - N
+  - N
   - o
   Description: n_n_o
 - Filename: o_o_n
   Phonemes:
   - o
   - o
-  - n
+  - N
   Description: o_o_n
 - Filename: ba_bi_bu
   Phonemes:
@@ -163,7 +163,7 @@ Files:
   Description: bu_be_bo
 - Filename: n_bo_ba
   Phonemes:
-  - n
+  - N
   - b
   - o
   - b
@@ -198,7 +198,7 @@ Files:
   Description: chu_che_cho
 - Filename: n_cho_cha
   Phonemes:
-  - n
+  - N
   - ch
   - o
   - ch
@@ -224,7 +224,7 @@ Files:
   Description: du_de_do
 - Filename: n_do_da
   Phonemes:
-  - n
+  - N
   - d
   - o
   - d
@@ -250,7 +250,7 @@ Files:
   Description: fu_fe_fo
 - Filename: n_fo_fa
   Phonemes:
-  - n
+  - N
   - f
   - o
   - f
@@ -276,7 +276,7 @@ Files:
   Description: gu_ge_go
 - Filename: n_go_ga
   Phonemes:
-  - n
+  - N
   - g
   - o
   - g
@@ -311,7 +311,7 @@ Files:
   Description: hi_he_ho
 - Filename: n_ho_ha
   Phonemes:
-  - n
+  - N
   - h
   - o
   - h
@@ -337,7 +337,7 @@ Files:
   Description: he_hyu_hyo
 - Filename: n_hyo_hya
   Phonemes:
-  - n
+  - N
   - hy
   - o
   - hy
@@ -363,7 +363,7 @@ Files:
   Description: ju_je_jo
 - Filename: n_jo_ja
   Phonemes:
-  - n
+  - N
   - j
   - o
   - j
@@ -389,7 +389,7 @@ Files:
   Description: ku_ke_ko
 - Filename: n_ko_ka
   Phonemes:
-  - n
+  - N
   - k
   - o
   - k
@@ -424,7 +424,7 @@ Files:
   Description: mu_me_mo
 - Filename: n_mo_ma
   Phonemes:
-  - n
+  - N
   - m
   - o
   - m
@@ -459,7 +459,7 @@ Files:
   Description: nu_ne_no
 - Filename: n_no_na
   Phonemes:
-  - n
+  - N
   - n
   - o
   - n
@@ -494,7 +494,7 @@ Files:
   Description: pu_pe_po
 - Filename: n_po_pa
   Phonemes:
-  - n
+  - N
   - p
   - o
   - p
@@ -529,7 +529,7 @@ Files:
   Description: ru_re_ro
 - Filename: n_ro_ra
   Phonemes:
-  - n
+  - N
   - r
   - o
   - r
@@ -563,7 +563,7 @@ Files:
   Description: su_se_so
 - Filename: n_so_sa
   Phonemes:
-  - n
+  - N
   - s
   - o
   - s
@@ -589,7 +589,7 @@ Files:
   Description: shu_she_sho
 - Filename: n_sho_sha
   Phonemes:
-  - n
+  - N
   - sh
   - o
   - sh
@@ -615,7 +615,7 @@ Files:
   Description: tu_te_to
 - Filename: n_to_ta
   Phonemes:
-  - n
+  - N
   - t
   - o
   - t
@@ -654,7 +654,7 @@ Files:
   Description: o_tsu
 - Filename: n_tsu
   Phonemes:
-  - n
+  - N
   - ts
   - u
   Description: n_tsu
@@ -677,7 +677,7 @@ Files:
   Description: u_we_wo
 - Filename: n_wo_wa
   Phonemes:
-  - n
+  - N
   - w
   - o
   - w
@@ -702,7 +702,8 @@ Files:
   Description: yu_ye_yo
 - Filename: n_yo_ya
   Phonemes:
-  - ny
+  - N
+  - y
   - o
   - y
   - a
@@ -726,9 +727,31 @@ Files:
   Description: zu_ze_zo
 - Filename: n_zo_za
   Phonemes:
-  - n
+  - N
   - z
   - o
   - z
   - a
   Description: n_zo_za
+- Filename: o_byo_gyo_kyo
+  Phonemes:
+  - o
+  - by
+  - o
+  - gy
+  - o
+  - ky
+  - o
+  Description: o_byo_gyo_kyo
+- Filename: o_nyo_myo_pyo_ryo
+  Phonemes:
+  - o
+  - ny
+  - o
+  - my
+  - o
+  - py
+  - o
+  - ry
+  - o
+  Description: o_nyo_myo_pyo_ryo
