@@ -1,5 +1,6 @@
 /Stuff
 /WavSettings
 /Generators
-/Settings/test*
-/Settings/obsolete*
+/Settings/test/*
+/Settings/obsolete/*
+*_oremo
