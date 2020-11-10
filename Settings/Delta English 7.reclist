@@ -1,0 +1,2040 @@
+﻿Phonemes:
+  Vowels:
+  - i
+  - I
+  - E
+  - '{'
+  - a
+  - A
+  - V
+  - O
+  - o
+  - U
+  - u
+  - ju
+  - '@'
+  - 3
+  - eI
+  - aI
+  - aU
+  - OI
+  - oU
+  Consonants:
+  - p
+  - s
+  - t
+  - d
+  - k
+  - z
+  - f
+  - v
+  - T
+  - j
+  - l
+  - m
+  - D
+  - w
+  - r
+  - n
+  - b
+  - S
+  - tS
+  - dZ
+  - g
+  - Z
+  - N
+  - h
+Files:
+- Filename: _i_pi_si_ti_di-
+  Phonemes:
+  - i
+  - p
+  - i
+  - s
+  - i
+  - t
+  - i
+  - d
+  - i
+  Description: i pi si ti di
+- Filename: _i_ki_zi_fi_vi-
+  Phonemes:
+  - i
+  - k
+  - i
+  - z
+  - i
+  - f
+  - i
+  - v
+  - i
+  Description: i ki zi fi vi
+- Filename: _i_t+i_ji_li_mi-
+  Phonemes:
+  - i
+  - T
+  - i
+  - j
+  - i
+  - l
+  - i
+  - m
+  - i
+  Description: i Ti ji li mi
+- Filename: _i_d+i_wi_ri_ni-
+  Phonemes:
+  - i
+  - D
+  - i
+  - w
+  - i
+  - r
+  - i
+  - n
+  - i
+  Description: i Di wi ri ni
+- Filename: _i_bi_s+i_ts+i_dz+i-
+  Phonemes:
+  - i
+  - b
+  - i
+  - S
+  - i
+  - tS
+  - i
+  - dZ
+  - i
+  Description: i bi Si tSi dZi
+- Filename: _i_gi_z+i_n+i_hi-
+  Phonemes:
+  - i
+  - g
+  - i
+  - Z
+  - i
+  - N
+  - i
+  - h
+  - i
+  Description: i gi Zi Ni hi
+- Filename: _i+_pi+_si+_ti+_di+-
+  Phonemes:
+  - I
+  - p
+  - I
+  - s
+  - I
+  - t
+  - I
+  - d
+  - I
+  Description: I pI sI tI dI
+- Filename: _i+_ki+_zi+_fi+_vi+-
+  Phonemes:
+  - I
+  - k
+  - I
+  - z
+  - I
+  - f
+  - I
+  - v
+  - I
+  Description: I kI zI fI vI
+- Filename: _i+_t+i+_ji+_li+_mi+-
+  Phonemes:
+  - I
+  - T
+  - I
+  - j
+  - I
+  - l
+  - I
+  - m
+  - I
+  Description: I TI jI lI mI
+- Filename: _i+_d+i+_wi+_ri+_ni+-
+  Phonemes:
+  - I
+  - D
+  - I
+  - w
+  - I
+  - r
+  - I
+  - n
+  - I
+  Description: I DI wI rI nI
+- Filename: _i+_bi+_s+i+_ts+i+_dz+i+-
+  Phonemes:
+  - I
+  - b
+  - I
+  - S
+  - I
+  - tS
+  - I
+  - dZ
+  - I
+  Description: I bI SI tSI dZI
+- Filename: _i+_gi+_z+i+_n+i+_hi+-
+  Phonemes:
+  - I
+  - g
+  - I
+  - Z
+  - I
+  - N
+  - I
+  - h
+  - I
+  Description: I gI ZI NI hI
+- Filename: _e+_pe+_se+_te+_de+-
+  Phonemes:
+  - E
+  - p
+  - E
+  - s
+  - E
+  - t
+  - E
+  - d
+  - E
+  Description: E pE sE tE dE
+- Filename: _e+_ke+_ze+_fe+_ve+-
+  Phonemes:
+  - E
+  - k
+  - E
+  - z
+  - E
+  - f
+  - E
+  - v
+  - E
+  Description: E kE zE fE vE
+- Filename: _e+_t+e+_je+_le+_me+-
+  Phonemes:
+  - E
+  - T
+  - E
+  - j
+  - E
+  - l
+  - E
+  - m
+  - E
+  Description: E TE jE lE mE
+- Filename: _e+_d+e+_we+_re+_ne+-
+  Phonemes:
+  - E
+  - D
+  - E
+  - w
+  - E
+  - r
+  - E
+  - n
+  - E
+  Description: E DE wE rE nE
+- Filename: _e+_be+_s+e+_ts+e+_dz+e+-
+  Phonemes:
+  - E
+  - b
+  - E
+  - S
+  - E
+  - tS
+  - E
+  - dZ
+  - E
+  Description: E bE SE tSE dZE
+- Filename: _e+_ge+_z+e+_n+e+_he+-
+  Phonemes:
+  - E
+  - g
+  - E
+  - Z
+  - E
+  - N
+  - E
+  - h
+  - E
+  Description: E gE ZE NE hE
+- Filename: _{_p{_s{_t{_d{-
+  Phonemes:
+  - '{'
+  - p
+  - '{'
+  - s
+  - '{'
+  - t
+  - '{'
+  - d
+  - '{'
+  Description: '{ p{ s{ t{ d{'
+- Filename: _{_k{_z{_f{_v{-
+  Phonemes:
+  - '{'
+  - k
+  - '{'
+  - z
+  - '{'
+  - f
+  - '{'
+  - v
+  - '{'
+  Description: '{ k{ z{ f{ v{'
+- Filename: _{_t+{_j{_l{_m{-
+  Phonemes:
+  - '{'
+  - T
+  - '{'
+  - j
+  - '{'
+  - l
+  - '{'
+  - m
+  - '{'
+  Description: '{ T{ j{ l{ m{'
+- Filename: _{_d+{_w{_r{_n{-
+  Phonemes:
+  - '{'
+  - D
+  - '{'
+  - w
+  - '{'
+  - r
+  - '{'
+  - n
+  - '{'
+  Description: '{ D{ w{ r{ n{'
+- Filename: _{_b{_s+{_ts+{_dz+{-
+  Phonemes:
+  - '{'
+  - b
+  - '{'
+  - S
+  - '{'
+  - tS
+  - '{'
+  - dZ
+  - '{'
+  Description: '{ b{ S{ tS{ dZ{'
+- Filename: _{_g{_z+{_n+{_h{-
+  Phonemes:
+  - '{'
+  - g
+  - '{'
+  - Z
+  - '{'
+  - N
+  - '{'
+  - h
+  - '{'
+  Description: '{ g{ Z{ N{ h{'
+- Filename: _a_pa_sa_ta_da-
+  Phonemes:
+  - a
+  - p
+  - a
+  - s
+  - a
+  - t
+  - a
+  - d
+  - a
+  Description: a pa sa ta da
+- Filename: _a_ka_za_fa_va-
+  Phonemes:
+  - a
+  - k
+  - a
+  - z
+  - a
+  - f
+  - a
+  - v
+  - a
+  Description: a ka za fa va
+- Filename: _a_t+a_ja_la_ma-
+  Phonemes:
+  - a
+  - T
+  - a
+  - j
+  - a
+  - l
+  - a
+  - m
+  - a
+  Description: a Ta ja la ma
+- Filename: _a_d+a_wa_ra_na-
+  Phonemes:
+  - a
+  - D
+  - a
+  - w
+  - a
+  - r
+  - a
+  - n
+  - a
+  Description: a Da wa ra na
+- Filename: _a_ba_s+a_ts+a_dz+a-
+  Phonemes:
+  - a
+  - b
+  - a
+  - S
+  - a
+  - tS
+  - a
+  - dZ
+  - a
+  Description: a ba Sa tSa dZa
+- Filename: _a_ga_z+a_n+a_ha-
+  Phonemes:
+  - a
+  - g
+  - a
+  - Z
+  - a
+  - N
+  - a
+  - h
+  - a
+  Description: a ga Za Na ha
+- Filename: _a+_pa+_sa+_ta+_da+-
+  Phonemes:
+  - A
+  - p
+  - A
+  - s
+  - A
+  - t
+  - A
+  - d
+  - A
+  Description: A pA sA tA dA
+- Filename: _a+_ka+_za+_fa+_va+-
+  Phonemes:
+  - A
+  - k
+  - A
+  - z
+  - A
+  - f
+  - A
+  - v
+  - A
+  Description: A kA zA fA vA
+- Filename: _a+_t+a+_ja+_la+_ma+-
+  Phonemes:
+  - A
+  - T
+  - A
+  - j
+  - A
+  - l
+  - A
+  - m
+  - A
+  Description: A TA jA lA mA
+- Filename: _a+_d+a+_wa+_ra+_na+-
+  Phonemes:
+  - A
+  - D
+  - A
+  - w
+  - A
+  - r
+  - A
+  - n
+  - A
+  Description: A DA wA rA nA
+- Filename: _a+_ba+_s+a+_ts+a+_dz+a+-
+  Phonemes:
+  - A
+  - b
+  - A
+  - S
+  - A
+  - tS
+  - A
+  - dZ
+  - A
+  Description: A bA SA tSA dZA
+- Filename: _a+_ga+_z+a+_n+a+_ha+-
+  Phonemes:
+  - A
+  - g
+  - A
+  - Z
+  - A
+  - N
+  - A
+  - h
+  - A
+  Description: A gA ZA NA hA
+- Filename: _v+_pv+_sv+_tv+_dv+-
+  Phonemes:
+  - V
+  - p
+  - V
+  - s
+  - V
+  - t
+  - V
+  - d
+  - V
+  Description: V pV sV tV dV
+- Filename: _v+_kv+_zv+_fv+_vv+-
+  Phonemes:
+  - V
+  - k
+  - V
+  - z
+  - V
+  - f
+  - V
+  - v
+  - V
+  Description: V kV zV fV vV
+- Filename: _v+_t+v+_jv+_lv+_mv+-
+  Phonemes:
+  - V
+  - T
+  - V
+  - j
+  - V
+  - l
+  - V
+  - m
+  - V
+  Description: V TV jV lV mV
+- Filename: _v+_d+v+_wv+_rv+_nv+-
+  Phonemes:
+  - V
+  - D
+  - V
+  - w
+  - V
+  - r
+  - V
+  - n
+  - V
+  Description: V DV wV rV nV
+- Filename: _v+_bv+_s+v+_ts+v+_dz+v+-
+  Phonemes:
+  - V
+  - b
+  - V
+  - S
+  - V
+  - tS
+  - V
+  - dZ
+  - V
+  Description: V bV SV tSV dZV
+- Filename: _v+_gv+_z+v+_n+v+_hv+-
+  Phonemes:
+  - V
+  - g
+  - V
+  - Z
+  - V
+  - N
+  - V
+  - h
+  - V
+  Description: V gV ZV NV hV
+- Filename: _o+_po+_so+_to+_do+-
+  Phonemes:
+  - O
+  - p
+  - O
+  - s
+  - O
+  - t
+  - O
+  - d
+  - O
+  Description: O pO sO tO dO
+- Filename: _o+_ko+_zo+_fo+_vo+-
+  Phonemes:
+  - O
+  - k
+  - O
+  - z
+  - O
+  - f
+  - O
+  - v
+  - O
+  Description: O kO zO fO vO
+- Filename: _o+_t+o+_jo+_lo+_mo+-
+  Phonemes:
+  - O
+  - T
+  - O
+  - j
+  - O
+  - l
+  - O
+  - m
+  - O
+  Description: O TO jO lO mO
+- Filename: _o+_d+o+_wo+_ro+_no+-
+  Phonemes:
+  - O
+  - D
+  - O
+  - w
+  - O
+  - r
+  - O
+  - n
+  - O
+  Description: O DO wO rO nO
+- Filename: _o+_bo+_s+o+_ts+o+_dz+o+-
+  Phonemes:
+  - O
+  - b
+  - O
+  - S
+  - O
+  - tS
+  - O
+  - dZ
+  - O
+  Description: O bO SO tSO dZO
+- Filename: _o+_go+_z+o+_n+o+_ho+-
+  Phonemes:
+  - O
+  - g
+  - O
+  - Z
+  - O
+  - N
+  - O
+  - h
+  - O
+  Description: O gO ZO NO hO
+- Filename: _o_po_so_to_do-
+  Phonemes:
+  - o
+  - p
+  - o
+  - s
+  - o
+  - t
+  - o
+  - d
+  - o
+  Description: o po so to do
+- Filename: _o_ko_zo_fo_vo-
+  Phonemes:
+  - o
+  - k
+  - o
+  - z
+  - o
+  - f
+  - o
+  - v
+  - o
+  Description: o ko zo fo vo
+- Filename: _o_t+o_jo_lo_mo-
+  Phonemes:
+  - o
+  - T
+  - o
+  - j
+  - o
+  - l
+  - o
+  - m
+  - o
+  Description: o To jo lo mo
+- Filename: _o_d+o_wo_ro_no-
+  Phonemes:
+  - o
+  - D
+  - o
+  - w
+  - o
+  - r
+  - o
+  - n
+  - o
+  Description: o Do wo ro no
+- Filename: _o_bo_s+o_ts+o_dz+o-
+  Phonemes:
+  - o
+  - b
+  - o
+  - S
+  - o
+  - tS
+  - o
+  - dZ
+  - o
+  Description: o bo So tSo dZo
+- Filename: _o_go_z+o_n+o_ho-
+  Phonemes:
+  - o
+  - g
+  - o
+  - Z
+  - o
+  - N
+  - o
+  - h
+  - o
+  Description: o go Zo No ho
+- Filename: _u+_pu+_su+_tu+_du+-
+  Phonemes:
+  - U
+  - p
+  - U
+  - s
+  - U
+  - t
+  - U
+  - d
+  - U
+  Description: U pU sU tU dU
+- Filename: _u+_ku+_zu+_fu+_vu+-
+  Phonemes:
+  - U
+  - k
+  - U
+  - z
+  - U
+  - f
+  - U
+  - v
+  - U
+  Description: U kU zU fU vU
+- Filename: _u+_t+u+_ju+_lu+_mu+-
+  Phonemes:
+  - U
+  - T
+  - U
+  - j
+  - U
+  - l
+  - U
+  - m
+  - U
+  Description: U TU jU lU mU
+- Filename: _u+_d+u+_wu+_ru+_nu+-
+  Phonemes:
+  - U
+  - D
+  - U
+  - w
+  - U
+  - r
+  - U
+  - n
+  - U
+  Description: U DU wU rU nU
+- Filename: _u+_bu+_s+u+_ts+u+_dz+u+-
+  Phonemes:
+  - U
+  - b
+  - U
+  - S
+  - U
+  - tS
+  - U
+  - dZ
+  - U
+  Description: U bU SU tSU dZU
+- Filename: _u+_gu+_z+u+_n+u+_hu+-
+  Phonemes:
+  - U
+  - g
+  - U
+  - Z
+  - U
+  - N
+  - U
+  - h
+  - U
+  Description: U gU ZU NU hU
+- Filename: _u_pu_su_tu_du-
+  Phonemes:
+  - u
+  - p
+  - u
+  - s
+  - u
+  - t
+  - u
+  - d
+  - u
+  Description: u pu su tu du
+- Filename: _u_ku_zu_fu_vu-
+  Phonemes:
+  - u
+  - k
+  - u
+  - z
+  - u
+  - f
+  - u
+  - v
+  - u
+  Description: u ku zu fu vu
+- Filename: _u_t+u_ju_lu_mu-
+  Phonemes:
+  - u
+  - T
+  - u
+  - j
+  - u
+  - l
+  - u
+  - m
+  - u
+  Description: u Tu ju lu mu
+- Filename: _u_d+u_wu_ru_nu-
+  Phonemes:
+  - u
+  - D
+  - u
+  - w
+  - u
+  - r
+  - u
+  - n
+  - u
+  Description: u Du wu ru nu
+- Filename: _u_bu_s+u_ts+u_dz+u-
+  Phonemes:
+  - u
+  - b
+  - u
+  - S
+  - u
+  - tS
+  - u
+  - dZ
+  - u
+  Description: u bu Su tSu dZu
+- Filename: _u_gu_z+u_n+u_hu-
+  Phonemes:
+  - u
+  - g
+  - u
+  - Z
+  - u
+  - N
+  - u
+  - h
+  - u
+  Description: u gu Zu Nu hu
+- Filename: _ju_pju_sju_tju_dju-
+  Phonemes:
+  - ju
+  - p
+  - ju
+  - s
+  - ju
+  - t
+  - ju
+  - d
+  - ju
+  Description: ju pju sju tju dju
+- Filename: _ju_kju_zju_fju_vju-
+  Phonemes:
+  - ju
+  - k
+  - ju
+  - z
+  - ju
+  - f
+  - ju
+  - v
+  - ju
+  Description: ju kju zju fju vju
+- Filename: _ju_t+ju_lju_mju-
+  Phonemes:
+  - ju
+  - T
+  - ju
+  - l
+  - ju
+  - m
+  - ju
+  Description: ju Tju lju mju
+- Filename: _ju_d+ju_wju_rju_nju-
+  Phonemes:
+  - ju
+  - D
+  - ju
+  - w
+  - ju
+  - r
+  - ju
+  - n
+  - ju
+  Description: ju Dju wju rju nju
+- Filename: _ju_bju_s+ju_ts+ju_dz+ju-
+  Phonemes:
+  - ju
+  - b
+  - ju
+  - S
+  - ju
+  - tS
+  - ju
+  - dZ
+  - ju
+  Description: ju bju Sju tSju dZju
+- Filename: _ju_gju_z+ju_n+ju_hju-
+  Phonemes:
+  - ju
+  - g
+  - ju
+  - Z
+  - ju
+  - N
+  - ju
+  - h
+  - ju
+  Description: ju gju Zju Nju hju
+- Filename: _@_p@_s@_t@_d@-
+  Phonemes:
+  - '@'
+  - p
+  - '@'
+  - s
+  - '@'
+  - t
+  - '@'
+  - d
+  - '@'
+  Description: '@ p@ s@ t@ d@'
+- Filename: _@_k@_z@_f@_v@-
+  Phonemes:
+  - '@'
+  - k
+  - '@'
+  - z
+  - '@'
+  - f
+  - '@'
+  - v
+  - '@'
+  Description: '@ k@ z@ f@ v@'
+- Filename: _@_t+@_j@_l@_m@-
+  Phonemes:
+  - '@'
+  - T
+  - '@'
+  - j
+  - '@'
+  - l
+  - '@'
+  - m
+  - '@'
+  Description: '@ T@ j@ l@ m@'
+- Filename: _@_d+@_w@_r@_n@-
+  Phonemes:
+  - '@'
+  - D
+  - '@'
+  - w
+  - '@'
+  - r
+  - '@'
+  - n
+  - '@'
+  Description: '@ D@ w@ r@ n@'
+- Filename: _@_b@_s+@_ts+@_dz+@-
+  Phonemes:
+  - '@'
+  - b
+  - '@'
+  - S
+  - '@'
+  - tS
+  - '@'
+  - dZ
+  - '@'
+  Description: '@ b@ S@ tS@ dZ@'
+- Filename: _@_g@_z+@_n+@_h@-
+  Phonemes:
+  - '@'
+  - g
+  - '@'
+  - Z
+  - '@'
+  - N
+  - '@'
+  - h
+  - '@'
+  Description: '@ g@ Z@ N@ h@'
+- Filename: _3_p3_s3_t3_d3-
+  Phonemes:
+  - 3
+  - p
+  - 3
+  - s
+  - 3
+  - t
+  - 3
+  - d
+  - 3
+  Description: 3 p3 s3 t3 d3
+- Filename: _3_k3_z3_f3_v3-
+  Phonemes:
+  - 3
+  - k
+  - 3
+  - z
+  - 3
+  - f
+  - 3
+  - v
+  - 3
+  Description: 3 k3 z3 f3 v3
+- Filename: _3_t+3_j3_l3_m3-
+  Phonemes:
+  - 3
+  - T
+  - 3
+  - j
+  - 3
+  - l
+  - 3
+  - m
+  - 3
+  Description: 3 T3 j3 l3 m3
+- Filename: _3_d+3_w3_r3_n3-
+  Phonemes:
+  - 3
+  - D
+  - 3
+  - w
+  - 3
+  - r
+  - 3
+  - n
+  - 3
+  Description: 3 D3 w3 r3 n3
+- Filename: _3_b3_s+3_ts+3_dz+3-
+  Phonemes:
+  - 3
+  - b
+  - 3
+  - S
+  - 3
+  - tS
+  - 3
+  - dZ
+  - 3
+  Description: 3 b3 S3 tS3 dZ3
+- Filename: _3_g3_z+3_n+3_h3-
+  Phonemes:
+  - 3
+  - g
+  - 3
+  - Z
+  - 3
+  - N
+  - 3
+  - h
+  - 3
+  Description: 3 g3 Z3 N3 h3
+- Filename: _ei+-
+  Phonemes:
+  - eI
+  Description: eI
+- Filename: _ai+-
+  Phonemes:
+  - aI
+  Description: aI
+- Filename: _au+-
+  Phonemes:
+  - aU
+  Description: aU
+- Filename: _o+i+-
+  Phonemes:
+  - OI
+  Description: OI
+- Filename: _ou+-
+  Phonemes:
+  - oU
+  Description: oU
+- Filename: _pr@-
+  Phonemes:
+  - p
+  - r
+  - '@'
+  Description: pr@
+- Filename: _br@-
+  Phonemes:
+  - b
+  - r
+  - '@'
+  Description: br@
+- Filename: _fr@-
+  Phonemes:
+  - f
+  - r
+  - '@'
+  Description: fr@
+- Filename: _t+r@-
+  Phonemes:
+  - T
+  - r
+  - '@'
+  Description: Tr@
+- Filename: _tr@-
+  Phonemes:
+  - t
+  - r
+  - '@'
+  Description: tr@
+- Filename: _dr@-
+  Phonemes:
+  - d
+  - r
+  - '@'
+  Description: dr@
+- Filename: _s+r@-
+  Phonemes:
+  - S
+  - r
+  - '@'
+  Description: Sr@
+- Filename: _kr@-
+  Phonemes:
+  - k
+  - r
+  - '@'
+  Description: kr@
+- Filename: _gr@-
+  Phonemes:
+  - g
+  - r
+  - '@'
+  Description: gr@
+- Filename: _pl@-
+  Phonemes:
+  - p
+  - l
+  - '@'
+  Description: pl@
+- Filename: _bl@-
+  Phonemes:
+  - b
+  - l
+  - '@'
+  Description: bl@
+- Filename: _fl@-
+  Phonemes:
+  - f
+  - l
+  - '@'
+  Description: fl@
+- Filename: _sl@-
+  Phonemes:
+  - s
+  - l
+  - '@'
+  Description: sl@
+- Filename: _kl@-
+  Phonemes:
+  - k
+  - l
+  - '@'
+  Description: kl@
+- Filename: _gl@-
+  Phonemes:
+  - g
+  - l
+  - '@'
+  Description: gl@
+- Filename: _t+w@-
+  Phonemes:
+  - T
+  - w
+  - '@'
+  Description: Tw@
+- Filename: _tw@-
+  Phonemes:
+  - t
+  - w
+  - '@'
+  Description: tw@
+- Filename: _dw@-
+  Phonemes:
+  - d
+  - w
+  - '@'
+  Description: dw@
+- Filename: _sw@-
+  Phonemes:
+  - s
+  - w
+  - '@'
+  Description: sw@
+- Filename: _kw@-
+  Phonemes:
+  - k
+  - w
+  - '@'
+  Description: kw@
+- Filename: _gw@-
+  Phonemes:
+  - g
+  - w
+  - '@'
+  Description: gw@
+- Filename: _sp@-
+  Phonemes:
+  - s
+  - p
+  - '@'
+  Description: sp@
+- Filename: _st@-
+  Phonemes:
+  - s
+  - t
+  - '@'
+  Description: st@
+- Filename: _sk@-
+  Phonemes:
+  - s
+  - k
+  - '@'
+  Description: sk@
+- Filename: _sm@-
+  Phonemes:
+  - s
+  - m
+  - '@'
+  Description: sm@
+- Filename: _sn@-
+  Phonemes:
+  - s
+  - n
+  - '@'
+  Description: sn@
+- Filename: _spr@-
+  Phonemes:
+  - s
+  - p
+  - r
+  - '@'
+  Description: spr@
+- Filename: _str@-
+  Phonemes:
+  - s
+  - t
+  - r
+  - '@'
+  Description: str@
+- Filename: _skr@-
+  Phonemes:
+  - s
+  - k
+  - r
+  - '@'
+  Description: skr@
+- Filename: _spl@-
+  Phonemes:
+  - s
+  - p
+  - l
+  - '@'
+  Description: spl@
+- Filename: _skl@-
+  Phonemes:
+  - s
+  - k
+  - l
+  - '@'
+  Description: skl@
+- Filename: _stw@-
+  Phonemes:
+  - s
+  - t
+  - w
+  - '@'
+  Description: stw@
+- Filename: _skw@-
+  Phonemes:
+  - s
+  - k
+  - w
+  - '@'
+  Description: skw@
+- Filename: _@_bd-
+  Phonemes:
+  - '@'
+  - b
+  - d
+  Description: '@ bd'
+- Filename: _@_bl-
+  Phonemes:
+  - '@'
+  - b
+  - l
+  Description: '@ bl'
+- Filename: _@_bz-
+  Phonemes:
+  - '@'
+  - b
+  - z
+  Description: '@ bz'
+- Filename: _@_d+d-
+  Phonemes:
+  - '@'
+  - D
+  - d
+  Description: '@ Dd'
+- Filename: _@_d+m-
+  Phonemes:
+  - '@'
+  - D
+  - m
+  Description: '@ Dm'
+- Filename: _@_dn-
+  Phonemes:
+  - '@'
+  - d
+  - n
+  Description: '@ dn'
+- Filename: _@_dz-
+  Phonemes:
+  - '@'
+  - d
+  - z
+  Description: '@ dz'
+- Filename: _@_dz+d-
+  Phonemes:
+  - '@'
+  - dZ
+  - d
+  Description: '@ dZd'
+- Filename: _@_fl-
+  Phonemes:
+  - '@'
+  - f
+  - l
+  Description: '@ fl'
+- Filename: _@_fs-
+  Phonemes:
+  - '@'
+  - f
+  - s
+  Description: '@ fs'
+- Filename: _@_ft-
+  Phonemes:
+  - '@'
+  - f
+  - t
+  Description: '@ ft'
+- Filename: _@_ft+-
+  Phonemes:
+  - '@'
+  - f
+  - T
+  Description: '@ fT'
+- Filename: _@_gd-
+  Phonemes:
+  - '@'
+  - g
+  - d
+  Description: '@ gd'
+- Filename: _@_gl-
+  Phonemes:
+  - '@'
+  - g
+  - l
+  Description: '@ gl'
+- Filename: _@_gz-
+  Phonemes:
+  - '@'
+  - g
+  - z
+  Description: '@ gz'
+- Filename: _@_kl-
+  Phonemes:
+  - '@'
+  - k
+  - l
+  Description: '@ kl'
+- Filename: _@_ks-
+  Phonemes:
+  - '@'
+  - k
+  - s
+  Description: '@ ks'
+- Filename: _@_kt-
+  Phonemes:
+  - '@'
+  - k
+  - t
+  Description: '@ kt'
+- Filename: _@_lb-
+  Phonemes:
+  - '@'
+  - l
+  - b
+  Description: '@ lb'
+- Filename: _@_ld-
+  Phonemes:
+  - '@'
+  - l
+  - d
+  Description: '@ ld'
+- Filename: _@_lf-
+  Phonemes:
+  - '@'
+  - l
+  - f
+  Description: '@ lf'
+- Filename: _@_lk-
+  Phonemes:
+  - '@'
+  - l
+  - k
+  Description: '@ lk'
+- Filename: _@_lm-
+  Phonemes:
+  - '@'
+  - l
+  - m
+  Description: '@ lm'
+- Filename: _@_lp-
+  Phonemes:
+  - '@'
+  - l
+  - p
+  Description: '@ lp'
+- Filename: _@_ls-
+  Phonemes:
+  - '@'
+  - l
+  - s
+  Description: '@ ls'
+- Filename: _@_ls+-
+  Phonemes:
+  - '@'
+  - l
+  - S
+  Description: '@ lS'
+- Filename: _@_lt-
+  Phonemes:
+  - '@'
+  - l
+  - t
+  Description: '@ lt'
+- Filename: _@_lt+-
+  Phonemes:
+  - '@'
+  - l
+  - T
+  Description: '@ lT'
+- Filename: _@_lv-
+  Phonemes:
+  - '@'
+  - l
+  - v
+  Description: '@ lv'
+- Filename: _@_lz-
+  Phonemes:
+  - '@'
+  - l
+  - z
+  Description: '@ lz'
+- Filename: _@_md-
+  Phonemes:
+  - '@'
+  - m
+  - d
+  Description: '@ md'
+- Filename: _@_mdz+-
+  Phonemes:
+  - '@'
+  - m
+  - dZ
+  Description: '@ mdZ'
+- Filename: _@_mf-
+  Phonemes:
+  - '@'
+  - m
+  - f
+  Description: '@ mf'
+- Filename: _@_mp-
+  Phonemes:
+  - '@'
+  - m
+  - p
+  Description: '@ mp'
+- Filename: _@_ms-
+  Phonemes:
+  - '@'
+  - m
+  - s
+  Description: '@ ms'
+- Filename: _@_mts+-
+  Phonemes:
+  - '@'
+  - m
+  - tS
+  Description: '@ mtS'
+- Filename: _@_mz-
+  Phonemes:
+  - '@'
+  - m
+  - z
+  Description: '@ mz'
+- Filename: _@_n+d-
+  Phonemes:
+  - '@'
+  - N
+  - d
+  Description: '@ Nd'
+- Filename: _@_n+z-
+  Phonemes:
+  - '@'
+  - N
+  - z
+  Description: '@ Nz'
+- Filename: _@_nd-
+  Phonemes:
+  - '@'
+  - n
+  - d
+  Description: '@ nd'
+- Filename: _@_nk-
+  Phonemes:
+  - '@'
+  - n
+  - k
+  Description: '@ nk'
+- Filename: _@_ns-
+  Phonemes:
+  - '@'
+  - n
+  - s
+  Description: '@ ns'
+- Filename: _@_nt-
+  Phonemes:
+  - '@'
+  - n
+  - t
+  Description: '@ nt'
+- Filename: _@_nt+-
+  Phonemes:
+  - '@'
+  - n
+  - T
+  Description: '@ nT'
+- Filename: _@_nz-
+  Phonemes:
+  - '@'
+  - n
+  - z
+  Description: '@ nz'
+- Filename: _@_pl-
+  Phonemes:
+  - '@'
+  - p
+  - l
+  Description: '@ pl'
+- Filename: _@_ps-
+  Phonemes:
+  - '@'
+  - p
+  - s
+  Description: '@ ps'
+- Filename: _@_pt-
+  Phonemes:
+  - '@'
+  - p
+  - t
+  Description: '@ pt'
+- Filename: _@_pt+-
+  Phonemes:
+  - '@'
+  - p
+  - T
+  Description: '@ pT'
+- Filename: _@_s+t-
+  Phonemes:
+  - '@'
+  - S
+  - t
+  Description: '@ St'
+- Filename: _@_sk-
+  Phonemes:
+  - '@'
+  - s
+  - k
+  Description: '@ sk'
+- Filename: _@_sp-
+  Phonemes:
+  - '@'
+  - s
+  - p
+  Description: '@ sp'
+- Filename: _@_st-
+  Phonemes:
+  - '@'
+  - s
+  - t
+  Description: '@ st'
+- Filename: _@_tl-
+  Phonemes:
+  - '@'
+  - t
+  - l
+  Description: '@ tl'
+- Filename: _@_tm-
+  Phonemes:
+  - '@'
+  - t
+  - m
+  Description: '@ tm'
+- Filename: _@_tn-
+  Phonemes:
+  - '@'
+  - t
+  - n
+  Description: '@ tn'
+- Filename: _@_ts-
+  Phonemes:
+  - '@'
+  - t
+  - s
+  Description: '@ ts'
+- Filename: _@_ts+t-
+  Phonemes:
+  - '@'
+  - t
+  - S
+  - t
+  Description: '@ tSt'
+- Filename: _@_vd-
+  Phonemes:
+  - '@'
+  - v
+  - d
+  Description: '@ vd'
+- Filename: _@_vl-
+  Phonemes:
+  - '@'
+  - v
+  - l
+  Description: '@ vl'
+- Filename: _@_vz-
+  Phonemes:
+  - '@'
+  - v
+  - z
+  Description: '@ vz'
+- Filename: _@_zd-
+  Phonemes:
+  - '@'
+  - z
+  - d
+  Description: '@ zd'
+- Filename: _@_zl-
+  Phonemes:
+  - '@'
+  - z
+  - l
+  Description: '@ zl'
+- Filename: _@_zm-
+  Phonemes:
+  - '@'
+  - z
+  - m
+  Description: '@ zm'
+- Filename: _@_zn-
+  Phonemes:
+  - '@'
+  - z
+  - n
+  Description: '@ zn'
+- Filename: _@_dnt-
+  Phonemes:
+  - '@'
+  - d
+  - n
+  - t
+  Description: '@ dnt'
+- Filename: _@_ft+s-
+  Phonemes:
+  - '@'
+  - f
+  - T
+  - s
+  Description: '@ fTs'
+- Filename: _@_fts-
+  Phonemes:
+  - '@'
+  - f
+  - t
+  - s
+  Description: '@ fts'
+- Filename: _@_glz-
+  Phonemes:
+  - '@'
+  - g
+  - l
+  - z
+  Description: '@ glz'
+- Filename: _@_kst-
+  Phonemes:
+  - '@'
+  - k
+  - s
+  - t
+  Description: '@ kst'
+- Filename: _@_lbz-
+  Phonemes:
+  - '@'
+  - l
+  - b
+  - z
+  Description: '@ lbz'
+- Filename: _@_ldz-
+  Phonemes:
+  - '@'
+  - l
+  - d
+  - z
+  Description: '@ ldz'
+- Filename: _@_lfs-
+  Phonemes:
+  - '@'
+  - l
+  - f
+  - s
+  Description: '@ lfs'
+- Filename: _@_lft-
+  Phonemes:
+  - '@'
+  - l
+  - f
+  - t
+  Description: '@ lft'
+- Filename: _@_lft+-
+  Phonemes:
+  - '@'
+  - l
+  - f
+  - T
+  Description: '@ lfT'
+- Filename: _@_lks-
+  Phonemes:
+  - '@'
+  - l
+  - k
+  - s
+  Description: '@ lks'
+- Filename: _@_lkt-
+  Phonemes:
+  - '@'
+  - l
+  - k
+  - t
+  Description: '@ lkt'
+- Filename: _@_lmd-
+  Phonemes:
+  - '@'
+  - l
+  - m
+  - d
+  Description: '@ lmd'
+- Filename: _@_lmz-
+  Phonemes:
+  - '@'
+  - l
+  - m
+  - z
+  Description: '@ lmz'
+- Filename: _@_lpt-
+  Phonemes:
+  - '@'
+  - l
+  - p
+  - t
+  Description: '@ lpt'
+- Filename: _@_lts+t-
+  Phonemes:
+  - '@'
+  - l
+  - tS
+  - t
+  Description: '@ ltSt'
+- Filename: _@_lvd-
+  Phonemes:
+  - '@'
+  - l
+  - v
+  - d
+  Description: '@ lvd'
+- Filename: _@_lvz-
+  Phonemes:
+  - '@'
+  - l
+  - v
+  - z
+  Description: '@ lvz'
+- Filename: _@_mfs-
+  Phonemes:
+  - '@'
+  - m
+  - f
+  - s
+  Description: '@ mfs'
+- Filename: _@_mps-
+  Phonemes:
+  - '@'
+  - m
+  - p
+  - s
+  Description: '@ mps'
+- Filename: _@_mpt-
+  Phonemes:
+  - '@'
+  - m
+  - p
+  - t
+  Description: '@ mpt'
+- Filename: _@_mts+t-
+  Phonemes:
+  - '@'
+  - m
+  - tS
+  - t
+  Description: '@ mtSt'
+- Filename: _@_mts+z-
+  Phonemes:
+  - '@'
+  - m
+  - tS
+  - z
+  Description: '@ mtSz'
+- Filename: _@_ndz-
+  Phonemes:
+  - '@'
+  - n
+  - d
+  - z
+  Description: '@ ndz'
+- Filename: _@_ndz+d-
+  Phonemes:
+  - '@'
+  - n
+  - dZ
+  - d
+  Description: '@ ndZd'
+- Filename: _@_nks-
+  Phonemes:
+  - '@'
+  - n
+  - k
+  - s
+  Description: '@ nks'
+- Filename: _@_nts-
+  Phonemes:
+  - '@'
+  - n
+  - t
+  - s
+  Description: '@ nts'
+- Filename: _@_pls-
+  Phonemes:
+  - '@'
+  - p
+  - l
+  - s
+  Description: '@ pls'
+- Filename: _@_pt+s-
+  Phonemes:
+  - '@'
+  - p
+  - T
+  - s
+  Description: '@ pTs'
+- Filename: _@_rbd-
+  Phonemes:
+  - '@'
+  - r
+  - b
+  - d
+  Description: '@ rbd'
+- Filename: _@_rbz-
+  Phonemes:
+  - '@'
+  - r
+  - b
+  - z
+  Description: '@ rbz'
+- Filename: _@_rdz-
+  Phonemes:
+  - '@'
+  - r
+  - d
+  - z
+  Description: '@ rdz'
+- Filename: _@_rdz+d-
+  Phonemes:
+  - '@'
+  - r
+  - dZ
+  - d
+  Description: '@ rdZd'
+- Filename: _@_rfs-
+  Phonemes:
+  - '@'
+  - r
+  - f
+  - s
+  Description: '@ rfs'
+- Filename: _@_rft-
+  Phonemes:
+  - '@'
+  - r
+  - f
+  - t
+  Description: '@ rft'
+- Filename: _@_rgz-
+  Phonemes:
+  - '@'
+  - r
+  - g
+  - z
+  Description: '@ rgz'
+- Filename: _@_rks-
+  Phonemes:
+  - '@'
+  - r
+  - k
+  - s
+  Description: '@ rks'
+- Filename: _@_rkt-
+  Phonemes:
+  - '@'
+  - r
+  - k
+  - t
+  Description: '@ rkt'
+- Filename: _@_rmd-
+  Phonemes:
+  - '@'
+  - r
+  - m
+  - d
+  Description: '@ rmd'
+- Filename: _@_rmz-
+  Phonemes:
+  - '@'
+  - r
+  - m
+  - z
+  Description: '@ rmz'
+- Filename: _@_rnt-
+  Phonemes:
+  - '@'
+  - r
+  - n
+  - t
+  Description: '@ rnt'
+- Filename: _@_rnz-
+  Phonemes:
+  - '@'
+  - r
+  - n
+  - z
+  Description: '@ rnz'
+- Filename: _@_rt+s-
+  Phonemes:
+  - '@'
+  - r
+  - T
+  - s
+  Description: '@ rTs'
+- Filename: _@_rts+t-
+  Phonemes:
+  - '@'
+  - r
+  - tS
+  - t
+  Description: '@ rtSt'
+- Filename: _@_rvt-
+  Phonemes:
+  - '@'
+  - r
+  - v
+  - t
+  Description: '@ rvt'
+- Filename: _@_rzd-
+  Phonemes:
+  - '@'
+  - r
+  - z
+  - d
+  Description: '@ rzd'
+- Filename: _@_sks-
+  Phonemes:
+  - '@'
+  - s
+  - k
+  - s
+  Description: '@ sks'
+- Filename: _@_skt-
+  Phonemes:
+  - '@'
+  - s
+  - k
+  - t
+  Description: '@ skt'
+- Filename: _@_sps-
+  Phonemes:
+  - '@'
+  - s
+  - p
+  - s
+  Description: '@ sps'
+- Filename: _@_sts-
+  Phonemes:
+  - '@'
+  - s
+  - t
+  - s
+  Description: '@ sts'
+- Filename: _@_zlz-
+  Phonemes:
+  - '@'
+  - z
+  - l
+  - z
+  Description: '@ zlz'
+- Filename: _@_zmz-
+  Phonemes:
+  - '@'
+  - z
+  - m
+  - z
+  Description: '@ zmz'
+- Filename: _@_znt-
+  Phonemes:
+  - '@'
+  - z
+  - n
+  - t
+  Description: '@ znt'
