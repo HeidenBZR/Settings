@@ -1,0 +1,5 @@
+MaxDuplicates: 0
+Default:
+  AliasTypes:
+  - Name: CC
+    CanTakeFromAllPositions: true
