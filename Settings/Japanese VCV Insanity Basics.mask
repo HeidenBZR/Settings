@@ -1,0 +1,18 @@
+MaxDuplicates: 0
+Default:
+  AliasTypes:
+  - Name: RV
+    CanTakeFromAllPositions: true
+  - Name: VV
+    CanTakeFromAllPositions: true
+  - Name: RCV
+    CanTakeFromAllPositions: true
+  - Name: CV
+    Positions:
+    - 2
+  - Name: VC
+    CanTakeFromAllPositions: true
+  - Name: VCV
+    CanTakeFromAllPositions: true
+  - Name: VR
+    CanTakeFromAllPositions: true

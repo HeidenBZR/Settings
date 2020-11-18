@@ -1,0 +1,1975 @@
+﻿Phonemes:
+  Vowels:
+  - a
+  - i
+  - u
+  - e
+  - o
+  - N
+  Consonants:
+  - k
+  - ky
+  - g
+  - gy
+  - s
+  - sh
+  - t
+  - ch
+  - ts
+  - d
+  - n
+  - ny
+  - h
+  - hy
+  - f
+  - b
+  - by
+  - p
+  - py
+  - m
+  - y
+  - r
+  - ry
+  - w
+  - z
+  - j
+  - my
+Files:
+- Filename: ああいあうあえ
+  Phonemes:
+  - a
+  - a
+  - i
+  - a
+  - u
+  - a
+  - e
+  Description: a a i a u a e
+- Filename: いいういえいお
+  Phonemes:
+  - i
+  - i
+  - u
+  - i
+  - e
+  - i
+  - o
+  Description: i i u i e i o
+- Filename: ううえうおうん
+  Phonemes:
+  - u
+  - u
+  - e
+  - u
+  - o
+  - u
+  - N
+  Description: u u e u o u n
+- Filename: ええおえんえあ
+  Phonemes:
+  - e
+  - e
+  - o
+  - e
+  - N
+  - e
+  - a
+  Description: e e o e n e a
+- Filename: おおんおあおい
+  Phonemes:
+  - o
+  - o
+  - N
+  - o
+  - a
+  - o
+  - i
+  Description: o o n o a o i
+- Filename: んんあんいんう
+  Phonemes:
+  - N
+  - N
+  - a
+  - N
+  - i
+  - N
+  - u
+  Description: n n a n i n u
+- Filename: ややいやゆやえやんや
+  Phonemes:
+  - y
+  - a
+  - y
+  - a
+  - i
+  - y
+  - a
+  - y
+  - u
+  - y
+  - a
+  - e
+  - y
+  - a
+  - N
+  - y
+  - a
+  Description: ya ya i ya yu ya e ya n ya
+- Filename: ゆゆいゆよゆえゆんゆ
+  Phonemes:
+  - y
+  - u
+  - y
+  - u
+  - i
+  - y
+  - u
+  - y
+  - o
+  - y
+  - u
+  - e
+  - y
+  - u
+  - N
+  - y
+  - u
+  Description: yu yu i yu yo yu e yu n yu
+- Filename: よよいよやよえよんよ
+  Phonemes:
+  - y
+  - o
+  - y
+  - o
+  - i
+  - y
+  - o
+  - y
+  - a
+  - y
+  - o
+  - e
+  - y
+  - o
+  - N
+  - y
+  - o
+  Description: yo yo i yo ya yo e yo n yo
+- Filename: わわいわうわえわをんわ
+  Phonemes:
+  - w
+  - a
+  - w
+  - a
+  - i
+  - w
+  - a
+  - u
+  - w
+  - a
+  - e
+  - w
+  - a
+  - w
+  - o
+  - N
+  - w
+  - a
+  Description: wa wa i wa u wa e wa wo n wa
+- Filename: ををいをうをえをわんを
+  Phonemes:
+  - w
+  - o
+  - w
+  - o
+  - i
+  - w
+  - o
+  - u
+  - w
+  - o
+  - e
+  - w
+  - o
+  - w
+  - a
+  - N
+  - w
+  - o
+  Description: wo wo i wo u wo e wo wa n wo
+- Filename: かかきかくかんか
+  Phonemes:
+  - k
+  - a
+  - k
+  - a
+  - ky
+  - i
+  - k
+  - a
+  - k
+  - u
+  - k
+  - a
+  - N
+  - k
+  - a
+  Description: ka ka ki ka ku ka n ka
+- Filename: ききくきけきんき
+  Phonemes:
+  - ky
+  - i
+  - ky
+  - i
+  - k
+  - u
+  - ky
+  - i
+  - k
+  - e
+  - ky
+  - i
+  - N
+  - ky
+  - i
+  Description: ki ki ku ki ke ki n ki
+- Filename: くくけくこくんく
+  Phonemes:
+  - k
+  - u
+  - k
+  - u
+  - k
+  - e
+  - k
+  - u
+  - k
+  - o
+  - k
+  - u
+  - N
+  - k
+  - u
+  Description: ku ku ke ku ko ku n ku
+- Filename: けけこけかけんけ
+  Phonemes:
+  - k
+  - e
+  - k
+  - e
+  - k
+  - o
+  - k
+  - e
+  - k
+  - a
+  - k
+  - e
+  - N
+  - k
+  - e
+  Description: ke ke ko ke ka ke n ke
+- Filename: ここかこきこんこ
+  Phonemes:
+  - k
+  - o
+  - k
+  - o
+  - k
+  - a
+  - k
+  - o
+  - ky
+  - i
+  - k
+  - o
+  - N
+  - k
+  - o
+  Description: ko ko ka ko ki ko n ko
+- Filename: きゃきゃききゃきゅきゃけきゃんきゃ
+  Phonemes:
+  - ky
+  - a
+  - ky
+  - a
+  - ky
+  - i
+  - ky
+  - a
+  - ky
+  - u
+  - ky
+  - a
+  - k
+  - e
+  - ky
+  - a
+  - N
+  - ky
+  - a
+  Description: kya kya ki kya kyu kya ke kya n kya
+- Filename: きゅきゅききゅきょきゅけきゅんきゅ
+  Phonemes:
+  - ky
+  - u
+  - ky
+  - u
+  - ky
+  - i
+  - ky
+  - u
+  - ky
+  - o
+  - ky
+  - u
+  - k
+  - e
+  - ky
+  - u
+  - N
+  - ky
+  - u
+  Description: kyu kyu ki kyu kyo kyu ke kyu n kyu
+- Filename: きょきょききょきゃきょけきょんきょ
+  Phonemes:
+  - ky
+  - o
+  - ky
+  - o
+  - ky
+  - i
+  - ky
+  - o
+  - ky
+  - a
+  - ky
+  - o
+  - k
+  - e
+  - ky
+  - o
+  - N
+  - ky
+  - o
+  Description: kyo kyo ki kyo kya kyo ke kyo n kyo
+- Filename: ががぎがぐがんが
+  Phonemes:
+  - g
+  - a
+  - g
+  - a
+  - gy
+  - i
+  - g
+  - a
+  - g
+  - u
+  - g
+  - a
+  - N
+  - g
+  - a
+  Description: ga ga gi ga gu ga n ga
+- Filename: ぎぎぐぎげぎんぎ
+  Phonemes:
+  - gy
+  - i
+  - gy
+  - i
+  - g
+  - u
+  - gy
+  - i
+  - g
+  - e
+  - gy
+  - i
+  - N
+  - gy
+  - i
+  Description: gi gi gu gi ge gi n gi
+- Filename: ぐぐげぐごぐんぐ
+  Phonemes:
+  - g
+  - u
+  - g
+  - u
+  - g
+  - e
+  - g
+  - u
+  - g
+  - o
+  - g
+  - u
+  - N
+  - g
+  - u
+  Description: gu gu ge gu go gu n gu
+- Filename: げげごげがげんげ
+  Phonemes:
+  - g
+  - e
+  - g
+  - e
+  - g
+  - o
+  - g
+  - e
+  - g
+  - a
+  - g
+  - e
+  - N
+  - g
+  - e
+  Description: ge ge go ge ga ge n ge
+- Filename: ごごがごぎごんご
+  Phonemes:
+  - g
+  - o
+  - g
+  - o
+  - g
+  - a
+  - g
+  - o
+  - gy
+  - i
+  - g
+  - o
+  - N
+  - g
+  - o
+  Description: go go ga go gi go n go
+- Filename: ぎゃぎゃぎぎゃぎゅぎゃげぎゃんぎゃ
+  Phonemes:
+  - gy
+  - a
+  - gy
+  - a
+  - gy
+  - i
+  - gy
+  - a
+  - gy
+  - u
+  - gy
+  - a
+  - g
+  - e
+  - gy
+  - a
+  - N
+  - gy
+  - a
+  Description: gya gya gi gya gyu gya ge gya n gya
+- Filename: ぎゅぎゅぎぎゅぎょぎゅげぎゅんぎゅ
+  Phonemes:
+  - gy
+  - u
+  - gy
+  - u
+  - gy
+  - i
+  - gy
+  - u
+  - gy
+  - o
+  - gy
+  - u
+  - g
+  - e
+  - gy
+  - u
+  - N
+  - gy
+  - u
+  Description: gyu gyu gi gyu gyo gyu ge gyu n gyu
+- Filename: ぎょぎょぎぎょぎゃぎょげぎょんぎょ
+  Phonemes:
+  - gy
+  - o
+  - gy
+  - o
+  - gy
+  - i
+  - gy
+  - o
+  - gy
+  - a
+  - gy
+  - o
+  - g
+  - e
+  - gy
+  - o
+  - N
+  - gy
+  - o
+  Description: gyo gyo gi gyo gya gyo ge gyo n gyo
+- Filename: ささしさすさんさ
+  Phonemes:
+  - s
+  - a
+  - s
+  - a
+  - sh
+  - i
+  - s
+  - a
+  - s
+  - u
+  - s
+  - a
+  - N
+  - s
+  - a
+  Description: sa sa shi sa su sa n sa
+- Filename: ししすしせしんし
+  Phonemes:
+  - sh
+  - i
+  - sh
+  - i
+  - s
+  - u
+  - sh
+  - i
+  - s
+  - e
+  - sh
+  - i
+  - N
+  - sh
+  - i
+  Description: shi shi su shi se shi n shi
+- Filename: すすせすそすんす
+  Phonemes:
+  - s
+  - u
+  - s
+  - u
+  - s
+  - e
+  - s
+  - u
+  - s
+  - o
+  - s
+  - u
+  - N
+  - s
+  - u
+  Description: su su se su so su n su
+- Filename: せせそせさせんせ
+  Phonemes:
+  - s
+  - e
+  - s
+  - e
+  - s
+  - o
+  - s
+  - e
+  - s
+  - a
+  - s
+  - e
+  - N
+  - s
+  - e
+  Description: se se so se sa se n se
+- Filename: そそさそしそんそ
+  Phonemes:
+  - s
+  - o
+  - s
+  - o
+  - s
+  - a
+  - s
+  - o
+  - sh
+  - i
+  - s
+  - o
+  - N
+  - s
+  - o
+  Description: so so sa so shi so n so
+- Filename: しゃしゃししゃしゅしゃせしゃんしゃ
+  Phonemes:
+  - sh
+  - a
+  - sh
+  - a
+  - sh
+  - i
+  - sh
+  - a
+  - sh
+  - u
+  - sh
+  - a
+  - s
+  - e
+  - sh
+  - a
+  - N
+  - sh
+  - a
+  Description: sha sha shi sha shu sha se sha n sha
+- Filename: しゅしゅししゅしょしゅせしゅんしゅ
+  Phonemes:
+  - sh
+  - u
+  - sh
+  - u
+  - sh
+  - i
+  - sh
+  - u
+  - sh
+  - o
+  - sh
+  - u
+  - s
+  - e
+  - sh
+  - u
+  - N
+  - sh
+  - u
+  Description: shu shu shi shu sho shu se shu n shu
+- Filename: しょしょししょしゃしょせしょんしょ
+  Phonemes:
+  - sh
+  - o
+  - sh
+  - o
+  - sh
+  - i
+  - sh
+  - o
+  - sh
+  - a
+  - sh
+  - o
+  - s
+  - e
+  - sh
+  - o
+  - N
+  - sh
+  - o
+  Description: sho sho shi sho sha sho se sho n sho
+- Filename: ざざじざずざんざ
+  Phonemes:
+  - z
+  - a
+  - z
+  - a
+  - j
+  - i
+  - z
+  - a
+  - z
+  - u
+  - z
+  - a
+  - N
+  - z
+  - a
+  Description: za za ji za zu za n za
+- Filename: じじずじぜじんじ
+  Phonemes:
+  - j
+  - i
+  - j
+  - i
+  - z
+  - u
+  - j
+  - i
+  - z
+  - e
+  - j
+  - i
+  - N
+  - j
+  - i
+  Description: ji ji zu ji ze ji n ji
+- Filename: ずずぜずぞずんず
+  Phonemes:
+  - z
+  - u
+  - z
+  - u
+  - z
+  - e
+  - z
+  - u
+  - z
+  - o
+  - z
+  - u
+  - N
+  - z
+  - u
+  Description: zu zu ze zu zo zu n zu
+- Filename: ぜぜぞぜざぜんぜ
+  Phonemes:
+  - z
+  - e
+  - z
+  - e
+  - z
+  - o
+  - z
+  - e
+  - z
+  - a
+  - z
+  - e
+  - N
+  - z
+  - e
+  Description: ze ze zo ze za ze n ze
+- Filename: ぞぞざぞじぞんぞ
+  Phonemes:
+  - z
+  - o
+  - z
+  - o
+  - z
+  - a
+  - z
+  - o
+  - j
+  - i
+  - z
+  - o
+  - N
+  - z
+  - o
+  Description: zo zo za zo ji zo n zo
+- Filename: じゃじゃじじゃじゅじゃぜじゃんじゃ
+  Phonemes:
+  - j
+  - a
+  - j
+  - a
+  - j
+  - i
+  - j
+  - a
+  - j
+  - u
+  - j
+  - a
+  - z
+  - e
+  - j
+  - a
+  - N
+  - j
+  - a
+  Description: ja ja ji ja ju ja ze ja n ja
+- Filename: じゅじゅじじゅじょじゅぜじゅんじゅ
+  Phonemes:
+  - j
+  - u
+  - j
+  - u
+  - j
+  - i
+  - j
+  - u
+  - j
+  - o
+  - j
+  - u
+  - z
+  - e
+  - j
+  - u
+  - N
+  - j
+  - u
+  Description: ju ju ji ju jo ju ze ju n ju
+- Filename: じょじょじじょじゃじょぜじょんじょ
+  Phonemes:
+  - j
+  - o
+  - j
+  - o
+  - j
+  - i
+  - j
+  - o
+  - j
+  - a
+  - j
+  - o
+  - z
+  - e
+  - j
+  - o
+  - N
+  - j
+  - o
+  Description: jo jo ji jo ja jo ze jo n jo
+- Filename: たたちたつたんた
+  Phonemes:
+  - t
+  - a
+  - t
+  - a
+  - ch
+  - i
+  - t
+  - a
+  - ts
+  - u
+  - t
+  - a
+  - N
+  - t
+  - a
+  Description: ta ta chi ta tsu ta n ta
+- Filename: ちちつちてちんち
+  Phonemes:
+  - ch
+  - i
+  - ch
+  - i
+  - ts
+  - u
+  - ch
+  - i
+  - t
+  - e
+  - ch
+  - i
+  - N
+  - ch
+  - i
+  Description: chi chi tsu chi te chi n chi
+- Filename: つつてつとつんつ
+  Phonemes:
+  - ts
+  - u
+  - ts
+  - u
+  - t
+  - e
+  - ts
+  - u
+  - t
+  - o
+  - ts
+  - u
+  - N
+  - ts
+  - u
+  Description: tsu tsu te tsu to tsu n tsu
+- Filename: ててとてたてんて
+  Phonemes:
+  - t
+  - e
+  - t
+  - e
+  - t
+  - o
+  - t
+  - e
+  - t
+  - a
+  - t
+  - e
+  - N
+  - t
+  - e
+  Description: te te to te ta te n te
+- Filename: ととたとちとんと
+  Phonemes:
+  - t
+  - o
+  - t
+  - o
+  - t
+  - a
+  - t
+  - o
+  - ch
+  - i
+  - t
+  - o
+  - N
+  - t
+  - o
+  Description: to to ta to chi to n to
+- Filename: ちゃちゃちちゃちゅちゃてちゃんちゃ
+  Phonemes:
+  - ch
+  - a
+  - ch
+  - a
+  - ch
+  - i
+  - ch
+  - a
+  - ch
+  - u
+  - ch
+  - a
+  - t
+  - e
+  - ch
+  - a
+  - N
+  - ch
+  - a
+  Description: cha cha chi cha chu cha te cha n cha
+- Filename: ちゅちゅちちゅちょちゅてちゅんちゅ
+  Phonemes:
+  - ch
+  - u
+  - ch
+  - u
+  - ch
+  - i
+  - ch
+  - u
+  - ch
+  - o
+  - ch
+  - u
+  - t
+  - e
+  - ch
+  - u
+  - N
+  - ch
+  - u
+  Description: chu chu chi chu cho chu te chu n chu
+- Filename: ちょちょちちょちゃちょてちょんちょ
+  Phonemes:
+  - ch
+  - o
+  - ch
+  - o
+  - ch
+  - i
+  - ch
+  - o
+  - ch
+  - a
+  - ch
+  - o
+  - t
+  - e
+  - ch
+  - o
+  - N
+  - ch
+  - o
+  Description: cho cho chi cho cha cho te cho n cho
+- Filename: だだいだでだうだんだ
+  Phonemes:
+  - d
+  - a
+  - d
+  - a
+  - i
+  - d
+  - a
+  - d
+  - e
+  - d
+  - a
+  - u
+  - d
+  - a
+  - N
+  - d
+  - a
+  Description: da da i da de da u da n da
+- Filename: ででいでどでうでんで
+  Phonemes:
+  - d
+  - e
+  - d
+  - e
+  - i
+  - d
+  - e
+  - d
+  - o
+  - d
+  - e
+  - u
+  - d
+  - e
+  - N
+  - d
+  - e
+  Description: de de i de do de u de n de
+- Filename: どどいどだどうどんど
+  Phonemes:
+  - d
+  - o
+  - d
+  - o
+  - i
+  - d
+  - o
+  - d
+  - a
+  - d
+  - o
+  - u
+  - d
+  - o
+  - N
+  - d
+  - o
+  Description: do do i do da do u do n do
+- Filename: ななになぬなんな
+  Phonemes:
+  - n
+  - a
+  - n
+  - a
+  - ny
+  - i
+  - n
+  - a
+  - n
+  - u
+  - n
+  - a
+  - N
+  - n
+  - a
+  Description: na na ni na nu na n na
+- Filename: ににぬにねにんに
+  Phonemes:
+  - ny
+  - i
+  - ny
+  - i
+  - n
+  - u
+  - ny
+  - i
+  - n
+  - e
+  - ny
+  - i
+  - N
+  - ny
+  - i
+  Description: ni ni nu ni ne ni n ni
+- Filename: ぬぬねぬのぬんぬ
+  Phonemes:
+  - n
+  - u
+  - n
+  - u
+  - n
+  - e
+  - n
+  - u
+  - n
+  - o
+  - n
+  - u
+  - N
+  - n
+  - u
+  Description: nu nu ne nu no nu n nu
+- Filename: ねねのねなねんね
+  Phonemes:
+  - n
+  - e
+  - n
+  - e
+  - n
+  - o
+  - n
+  - e
+  - n
+  - a
+  - n
+  - e
+  - N
+  - n
+  - e
+  Description: ne ne no ne na ne n ne
+- Filename: ののなのにのんの
+  Phonemes:
+  - n
+  - o
+  - n
+  - o
+  - n
+  - a
+  - n
+  - o
+  - ny
+  - i
+  - n
+  - o
+  - N
+  - n
+  - o
+  Description: no no na no ni no n no
+- Filename: にゃにゃににゃにゅにゃねにゃんにゃ
+  Phonemes:
+  - ny
+  - a
+  - ny
+  - a
+  - ny
+  - i
+  - ny
+  - a
+  - ny
+  - u
+  - ny
+  - a
+  - n
+  - e
+  - ny
+  - a
+  - N
+  - ny
+  - a
+  Description: nya nya ni nya nyu nya ne nya n nya
+- Filename: にゅにゅににゅにょにゅねにゅんにゅ
+  Phonemes:
+  - ny
+  - u
+  - ny
+  - u
+  - ny
+  - i
+  - ny
+  - u
+  - ny
+  - o
+  - ny
+  - u
+  - n
+  - e
+  - ny
+  - u
+  - N
+  - ny
+  - u
+  Description: nyu nyu ni nyu nyo nyu ne nyu n nyu
+- Filename: にょにょににょにゃにょねにょんにょ
+  Phonemes:
+  - ny
+  - o
+  - ny
+  - o
+  - ny
+  - i
+  - ny
+  - o
+  - ny
+  - a
+  - ny
+  - o
+  - n
+  - e
+  - ny
+  - o
+  - N
+  - ny
+  - o
+  Description: nyo nyo ni nyo nya nyo ne nyo n nyo
+- Filename: ははひはふはんは
+  Phonemes:
+  - h
+  - a
+  - h
+  - a
+  - hy
+  - i
+  - h
+  - a
+  - f
+  - u
+  - h
+  - a
+  - N
+  - h
+  - a
+  Description: ha ha hi ha fu ha n ha
+- Filename: ひひふひへひんひ
+  Phonemes:
+  - hy
+  - i
+  - hy
+  - i
+  - f
+  - u
+  - hy
+  - i
+  - h
+  - e
+  - hy
+  - i
+  - N
+  - hy
+  - i
+  Description: hi hi fu hi he hi n hi
+- Filename: ふふへふほふんふ
+  Phonemes:
+  - f
+  - u
+  - f
+  - u
+  - h
+  - e
+  - f
+  - u
+  - h
+  - o
+  - f
+  - u
+  - N
+  - f
+  - u
+  Description: fu fu he fu ho fu n fu
+- Filename: へへほへはへんへ
+  Phonemes:
+  - h
+  - e
+  - h
+  - e
+  - h
+  - o
+  - h
+  - e
+  - h
+  - a
+  - h
+  - e
+  - N
+  - h
+  - e
+  Description: he he ho he ha he n he
+- Filename: ほほはほひほんほ
+  Phonemes:
+  - h
+  - o
+  - h
+  - o
+  - h
+  - a
+  - h
+  - o
+  - hy
+  - i
+  - h
+  - o
+  - N
+  - h
+  - o
+  Description: ho ho ha ho hi ho n ho
+- Filename: ひゃひゃひひゃひゅひゃへひゃんひゃ
+  Phonemes:
+  - hy
+  - a
+  - hy
+  - a
+  - hy
+  - i
+  - hy
+  - a
+  - hy
+  - u
+  - hy
+  - a
+  - h
+  - e
+  - hy
+  - a
+  - N
+  - hy
+  - a
+  Description: hya hya hi hya hyu hya he hya n hya
+- Filename: ひゅひゅひひゅひょひゅへひゅんひゅ
+  Phonemes:
+  - hy
+  - u
+  - hy
+  - u
+  - hy
+  - i
+  - hy
+  - u
+  - hy
+  - o
+  - hy
+  - u
+  - h
+  - e
+  - hy
+  - u
+  - N
+  - hy
+  - u
+  Description: hyu hyu hi hyu hyo hyu he hyu n hyu
+- Filename: ひょひょひひょひゃひょへひょんひょ
+  Phonemes:
+  - hy
+  - o
+  - hy
+  - o
+  - hy
+  - i
+  - hy
+  - o
+  - hy
+  - a
+  - hy
+  - o
+  - h
+  - e
+  - hy
+  - o
+  - N
+  - hy
+  - o
+  Description: hyo hyo hi hyo hya hyo he hyo n hyo
+- Filename: ばばびばぶばんば
+  Phonemes:
+  - b
+  - a
+  - b
+  - a
+  - by
+  - i
+  - b
+  - a
+  - b
+  - u
+  - b
+  - a
+  - N
+  - b
+  - a
+  Description: ba ba bi ba bu ba n ba
+- Filename: びびぶびべびんび
+  Phonemes:
+  - by
+  - i
+  - by
+  - i
+  - b
+  - u
+  - by
+  - i
+  - b
+  - e
+  - by
+  - i
+  - N
+  - by
+  - i
+  Description: bi bi bu bi be bi n bi
+- Filename: ぶぶべぶぼぶんぶ
+  Phonemes:
+  - b
+  - u
+  - b
+  - u
+  - b
+  - e
+  - b
+  - u
+  - b
+  - o
+  - b
+  - u
+  - N
+  - b
+  - u
+  Description: bu bu be bu bo bu n bu
+- Filename: べべぼべばべんべ
+  Phonemes:
+  - b
+  - e
+  - b
+  - e
+  - b
+  - o
+  - b
+  - e
+  - b
+  - a
+  - b
+  - e
+  - N
+  - b
+  - e
+  Description: be be bo be ba be n be
+- Filename: ぼぼばぼびぼんぼ
+  Phonemes:
+  - b
+  - o
+  - b
+  - o
+  - b
+  - a
+  - b
+  - o
+  - by
+  - i
+  - b
+  - o
+  - N
+  - b
+  - o
+  Description: bo bo ba bo bi bo n bo
+- Filename: びゃびゃびびゃびゅびゃべびゃんびゃ
+  Phonemes:
+  - by
+  - a
+  - by
+  - a
+  - by
+  - i
+  - by
+  - a
+  - by
+  - u
+  - by
+  - a
+  - b
+  - e
+  - by
+  - a
+  - N
+  - by
+  - a
+  Description: bya bya bi bya byu bya be bya n bya
+- Filename: びゅびゅびびゅびょびゅべびゅんびゅ
+  Phonemes:
+  - by
+  - u
+  - by
+  - u
+  - by
+  - i
+  - by
+  - u
+  - by
+  - o
+  - by
+  - u
+  - b
+  - e
+  - by
+  - u
+  - N
+  - by
+  - u
+  Description: byu byu bi byu byo byu be byu n byu
+- Filename: びょびょびびょびゃびょべびょんびょ
+  Phonemes:
+  - by
+  - o
+  - by
+  - o
+  - by
+  - i
+  - by
+  - o
+  - by
+  - a
+  - by
+  - o
+  - b
+  - e
+  - by
+  - o
+  - N
+  - by
+  - o
+  Description: byo byo bi byo bya byo be byo n byo
+- Filename: ぱぱぴぱぷぱんぱ
+  Phonemes:
+  - p
+  - a
+  - p
+  - a
+  - py
+  - i
+  - p
+  - a
+  - p
+  - u
+  - p
+  - a
+  - N
+  - p
+  - a
+  Description: pa pa pi pa pu pa n pa
+- Filename: ぴぴぷぴぺぴんぴ
+  Phonemes:
+  - py
+  - i
+  - py
+  - i
+  - p
+  - u
+  - py
+  - i
+  - p
+  - e
+  - py
+  - i
+  - N
+  - py
+  - i
+  Description: pi pi pu pi pe pi n pi
+- Filename: ぷぷぺぷぽぷんぷ
+  Phonemes:
+  - p
+  - u
+  - p
+  - u
+  - p
+  - e
+  - p
+  - u
+  - p
+  - o
+  - p
+  - u
+  - N
+  - p
+  - u
+  Description: pu pu pe pu po pu n pu
+- Filename: ぺぺぽぺぱぺんぺ
+  Phonemes:
+  - p
+  - e
+  - p
+  - e
+  - p
+  - o
+  - p
+  - e
+  - p
+  - a
+  - p
+  - e
+  - N
+  - p
+  - e
+  Description: pe pe po pe pa pe n pe
+- Filename: ぽぽぱぽぴぽんぽ
+  Phonemes:
+  - p
+  - o
+  - p
+  - o
+  - p
+  - a
+  - p
+  - o
+  - py
+  - i
+  - p
+  - o
+  - N
+  - p
+  - o
+  Description: po po pa po pi po n po
+- Filename: ぴゃぴゃぴぴゃぴゅぴゃぺぴゃんぴゃ
+  Phonemes:
+  - py
+  - a
+  - py
+  - a
+  - py
+  - i
+  - py
+  - a
+  - py
+  - u
+  - py
+  - a
+  - p
+  - e
+  - py
+  - a
+  - N
+  - py
+  - a
+  Description: pya pya pi pya pyu pya pe pya n pya
+- Filename: ぴゅぴゅぴぴゅぴょぴゅぺぴゅんぴゅ
+  Phonemes:
+  - py
+  - u
+  - py
+  - u
+  - py
+  - i
+  - py
+  - u
+  - py
+  - o
+  - py
+  - u
+  - p
+  - e
+  - py
+  - u
+  - N
+  - py
+  - u
+  Description: pyu pyu pi pyu pyo pyu pe pyu n pyu
+- Filename: ぴょぴょぴぴょぴゃぴょぺぴょんぴょ
+  Phonemes:
+  - py
+  - o
+  - py
+  - o
+  - py
+  - i
+  - py
+  - o
+  - py
+  - a
+  - py
+  - o
+  - p
+  - e
+  - py
+  - o
+  - N
+  - py
+  - o
+  Description: pyo pyo pi pyo pya pyo pe pyo n pyo
+- Filename: ままみまむまんま
+  Phonemes:
+  - m
+  - a
+  - m
+  - a
+  - my
+  - i
+  - m
+  - a
+  - m
+  - u
+  - m
+  - a
+  - N
+  - m
+  - a
+  Description: ma ma mi ma mu ma n ma
+- Filename: みみむみめみんみ
+  Phonemes:
+  - my
+  - i
+  - my
+  - i
+  - m
+  - u
+  - my
+  - i
+  - m
+  - e
+  - my
+  - i
+  - N
+  - my
+  - i
+  Description: mi mi mu mi me mi n mi
+- Filename: むむめむもむんむ
+  Phonemes:
+  - m
+  - u
+  - m
+  - u
+  - m
+  - e
+  - m
+  - u
+  - m
+  - o
+  - m
+  - u
+  - N
+  - m
+  - u
+  Description: mu mu me mu mo mu n mu
+- Filename: めめもめまめんめ
+  Phonemes:
+  - m
+  - e
+  - m
+  - e
+  - m
+  - o
+  - m
+  - e
+  - m
+  - a
+  - m
+  - e
+  - N
+  - m
+  - e
+  Description: me me mo me ma me n me
+- Filename: ももまもみもんも
+  Phonemes:
+  - m
+  - o
+  - m
+  - o
+  - m
+  - a
+  - m
+  - o
+  - my
+  - i
+  - m
+  - o
+  - N
+  - m
+  - o
+  Description: mo mo ma mo mi mo n mo
+- Filename: みゃみゃみみゃみゅみゃめみゃんみゃ
+  Phonemes:
+  - my
+  - a
+  - my
+  - a
+  - my
+  - i
+  - my
+  - a
+  - my
+  - u
+  - my
+  - a
+  - m
+  - e
+  - my
+  - a
+  - N
+  - my
+  - a
+  Description: mya mya mi mya myu mya me mya n mya
+- Filename: みゅみゅみみゅみょみゅめみゅんみゅ
+  Phonemes:
+  - my
+  - u
+  - my
+  - u
+  - my
+  - i
+  - my
+  - u
+  - my
+  - o
+  - my
+  - u
+  - m
+  - e
+  - my
+  - u
+  - N
+  - my
+  - u
+  Description: myu myu mi myu myo myu me myu n myu
+- Filename: みょみょみみょみゃみょめみょんみょ
+  Phonemes:
+  - my
+  - o
+  - my
+  - o
+  - my
+  - i
+  - my
+  - o
+  - my
+  - a
+  - my
+  - o
+  - m
+  - e
+  - my
+  - o
+  - N
+  - my
+  - o
+  Description: myo myo mi myo mya myo me myo n myo
+- Filename: ららりらるらんら
+  Phonemes:
+  - r
+  - a
+  - r
+  - a
+  - ry
+  - i
+  - r
+  - a
+  - r
+  - u
+  - r
+  - a
+  - N
+  - r
+  - a
+  Description: ra ra ri ra ru ra n ra
+- Filename: りりるりれりんり
+  Phonemes:
+  - ry
+  - i
+  - ry
+  - i
+  - r
+  - u
+  - ry
+  - i
+  - r
+  - e
+  - ry
+  - i
+  - N
+  - ry
+  - i
+  Description: ri ri ru ri re ri n ri
+- Filename: るるれるろるんる
+  Phonemes:
+  - r
+  - u
+  - r
+  - u
+  - r
+  - e
+  - r
+  - u
+  - r
+  - o
+  - r
+  - u
+  - N
+  - r
+  - u
+  Description: ru ru re ru ro ru n ru
+- Filename: れれろれられんれ
+  Phonemes:
+  - r
+  - e
+  - r
+  - e
+  - r
+  - o
+  - r
+  - e
+  - r
+  - a
+  - r
+  - e
+  - N
+  - r
+  - e
+  Description: re re ro re ra re n re
+- Filename: ろろらろりろんろ
+  Phonemes:
+  - r
+  - o
+  - r
+  - o
+  - r
+  - a
+  - r
+  - o
+  - ry
+  - i
+  - r
+  - o
+  - N
+  - r
+  - o
+  Description: ro ro ra ro ri ro n ro
+- Filename: りゃりゃりりゃりゅりゃれりゃんりゃ
+  Phonemes:
+  - ry
+  - a
+  - ry
+  - a
+  - ry
+  - i
+  - ry
+  - a
+  - ry
+  - u
+  - ry
+  - a
+  - r
+  - e
+  - ry
+  - a
+  - N
+  - ry
+  - a
+  Description: rya rya ri rya ryu rya re rya n rya
+- Filename: りゅりゅりりゅりょりゅれりゅんりゅ
+  Phonemes:
+  - ry
+  - u
+  - ry
+  - u
+  - ry
+  - i
+  - ry
+  - u
+  - ry
+  - o
+  - ry
+  - u
+  - r
+  - e
+  - ry
+  - u
+  - N
+  - ry
+  - u
+  Description: ryu ryu ri ryu ryo ryu re ryu n ryu
+- Filename: りょりょりりょりゃりょれりょんりょ
+  Phonemes:
+  - ry
+  - o
+  - ry
+  - o
+  - ry
+  - i
+  - ry
+  - o
+  - ry
+  - a
+  - ry
+  - o
+  - r
+  - e
+  - ry
+  - o
+  - N
+  - ry
+  - o
+  Description: ryo ryo ri ryo rya ryo re ryo n ryo
